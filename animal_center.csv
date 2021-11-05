@@ -1,0 +1,1001 @@
+animal_id,name,datetime,monthyear,date_of_birth,outcome_type,animal_type,sex_upon_outcome,age_upon_outcome,breed,color,outcome_subtype
+A845461,Max,2021-10-31T18:56:00.000,2021-10-31T18:56:00.000,2020-05-01T00:00:00.000,Adoption,Dog,Intact Male,1 year,Beagle/Chihuahua Shorthair,Red/White,
+A845367,"Juice Box ""Jb""",2021-10-31T17:51:00.000,2021-10-31T17:51:00.000,2017-10-28T00:00:00.000,Return to Owner,Dog,Neutered Male,4 years,Pit Bull,White/Brown,
+A844571,Saint,2021-10-31T17:28:00.000,2021-10-31T17:28:00.000,2020-10-17T00:00:00.000,Adoption,Dog,Neutered Male,1 year,German Shorthair Pointer/Catahoula,Brown Merle/White,
+A684713,Magneto,2021-10-31T16:55:00.000,2021-10-31T16:55:00.000,2014-06-05T00:00:00.000,Adoption,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Black/White,
+A845471,845471,2021-10-31T15:48:00.000,2021-10-31T15:48:00.000,2021-10-21T00:00:00.000,Transfer,Cat,Intact Female,1 weeks,Domestic Shorthair,Black,Partner
+A843414,*Mary,2021-10-31T15:28:00.000,2021-10-31T15:28:00.000,2021-08-17T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black/White,
+A843415,*Sarah,2021-10-31T15:28:00.000,2021-10-31T15:28:00.000,2021-08-17T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Blue/White,
+A844575,,2021-10-31T15:26:00.000,2021-10-31T15:26:00.000,2019-10-17T00:00:00.000,Transfer,Bird,Unknown,2 years,Parakeet,White/Blue,Partner
+A844576,,2021-10-31T15:26:00.000,2021-10-31T15:26:00.000,2019-10-17T00:00:00.000,Transfer,Bird,Unknown,2 years,Parakeet,White/Blue,Partner
+A844578,,2021-10-31T15:26:00.000,2021-10-31T15:26:00.000,2019-10-17T00:00:00.000,Transfer,Bird,Unknown,2 years,Parakeet,White/Blue,Partner
+A844577,,2021-10-31T15:26:00.000,2021-10-31T15:26:00.000,2019-10-17T00:00:00.000,Transfer,Bird,Unknown,2 years,Parakeet,White/Blue,Partner
+A845360,Duke,2021-10-31T15:25:00.000,2021-10-31T15:25:00.000,2019-10-28T00:00:00.000,Adoption,Dog,Neutered Male,2 years,English Coonhound Mix,Blue Tick/White,
+A845486,Rosie,2021-10-31T14:28:00.000,2021-10-31T14:28:00.000,2020-04-30T00:00:00.000,Return to Owner,Dog,Intact Female,1 year,Pit Bull,Brown,
+A845488,Zoey,2021-10-31T14:28:00.000,2021-10-31T14:28:00.000,2021-03-03T00:00:00.000,Return to Owner,Dog,Intact Female,7 months,German Shepherd,Brown/Black,
+A844203,,2021-10-31T12:31:00.000,2021-10-31T12:31:00.000,2021-09-06T00:00:00.000,Transfer,Cat,Intact Male,1 month,Domestic Shorthair,Black,Partner
+A844202,,2021-10-31T12:31:00.000,2021-10-31T12:31:00.000,2021-09-06T00:00:00.000,Transfer,Cat,Intact Female,1 month,Domestic Shorthair,Black,Partner
+A844200,,2021-10-31T12:29:00.000,2021-10-31T12:29:00.000,2021-09-06T00:00:00.000,Transfer,Cat,Intact Female,1 month,Domestic Shorthair,Blue,Partner
+A845217,A845217,2021-10-31T12:28:00.000,2021-10-31T12:28:00.000,2021-05-27T00:00:00.000,Transfer,Dog,Intact Female,5 months,Great Pyrenees Mix,White,Partner
+A844198,,2021-10-31T12:28:00.000,2021-10-31T12:28:00.000,2021-09-06T00:00:00.000,Transfer,Cat,Intact Male,1 month,Domestic Shorthair,Blue,Partner
+A771583,Pirata,2021-10-31T11:00:00.000,2021-10-31T11:00:00.000,2014-10-31T00:00:00.000,Died,Dog,Neutered Male,7 years,Labrador Retriever/Great Dane,White/Brown,Emergency
+A826900,Dusty,2021-10-30T18:41:00.000,2021-10-30T18:41:00.000,2016-12-08T00:00:00.000,Adoption,Dog,Neutered Male,4 years,Pit Bull,Black/White,
+A840220,Ace,2021-10-30T18:27:00.000,2021-10-30T18:27:00.000,2019-08-04T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Pit Bull Mix,Brown Brindle/White,
+A845445,Waylen,2021-10-30T17:29:00.000,2021-10-30T17:29:00.000,2019-10-30T00:00:00.000,Return to Owner,Dog,Intact Male,2 years,Labrador Retriever,Black/White,
+A845156,Biz,2021-10-30T17:14:00.000,2021-10-30T17:14:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Blue,
+A845065,*Faroh,2021-10-30T17:11:00.000,2021-10-30T17:11:00.000,2021-04-25T00:00:00.000,Transfer,Dog,Intact Male,6 months,Chow Chow,Blue,Partner
+A845020,Kilo,2021-10-30T17:09:00.000,2021-10-30T17:09:00.000,2011-10-26T00:00:00.000,Adoption,Dog,Neutered Male,10 years,Dachshund Longhair Mix,Brown,
+A843892,*Pepper,2021-10-30T16:59:00.000,2021-10-30T16:59:00.000,2021-08-25T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby,Foster
+A843893,*Sandy,2021-10-30T16:57:00.000,2021-10-30T16:57:00.000,2021-08-25T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,Foster
+A842470,*Pumpkin,2021-10-30T16:54:00.000,2021-10-30T16:54:00.000,2021-08-09T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby,Foster
+A843895,*Peanut,2021-10-30T16:52:00.000,2021-10-30T16:52:00.000,2021-08-25T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black,Foster
+A843894,*Finn,2021-10-30T16:50:00.000,2021-10-30T16:50:00.000,2021-08-25T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby,Foster
+A842352,*Mo,2021-10-30T16:46:00.000,2021-10-30T16:46:00.000,2021-08-11T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby,Foster
+A842745,*Mocha,2021-10-30T16:39:00.000,2021-10-30T16:39:00.000,2021-08-30T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair,Brown Tabby,Foster
+A842744,*Cinnamon,2021-10-30T16:38:00.000,2021-10-30T16:38:00.000,2021-08-30T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair,Orange Tabby/White,Foster
+A845459,,2021-10-30T16:15:00.000,2021-10-30T16:15:00.000,2021-10-04T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Shorthair,Gray Tabby,Partner
+A845458,,2021-10-30T16:15:00.000,2021-10-30T16:15:00.000,2021-10-04T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair,Gray Tabby,Partner
+A845460,,2021-10-30T16:15:00.000,2021-10-30T16:15:00.000,2021-10-04T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Shorthair,Brown Tabby,Partner
+A844433,*Ebony,2021-10-30T16:02:00.000,2021-10-30T16:02:00.000,2019-10-15T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Labrador Retriever Mix,Black,
+A845110,*Betty,2021-10-30T16:02:00.000,2021-10-30T16:02:00.000,2019-10-25T00:00:00.000,Adoption,Other,Unknown,2 years,Lionhead Mix,White/Tan,
+A845412,Gizmo,2021-10-30T15:37:00.000,2021-10-30T15:37:00.000,2011-10-29T00:00:00.000,Return to Owner,Dog,Intact Male,10 years,Maltese,White,
+A842878,Sunshine,2021-10-30T15:07:00.000,2021-10-30T15:07:00.000,1991-09-22T00:00:00.000,Transfer,Bird,Intact Female,30 years,Macaw,Blue/Gold,Partner
+A598832,Boogers,2021-10-30T14:37:00.000,2021-10-30T14:37:00.000,2010-10-11T00:00:00.000,Return to Owner,Cat,Neutered Male,11 years,Domestic Shorthair,Brown Tabby/White,
+A845422,Gambino,2021-10-30T13:01:00.000,2021-10-30T13:01:00.000,2019-10-29T00:00:00.000,Return to Owner,Dog,Intact Male,2 years,Pit Bull,Red/White,
+A844620,*Laszlo,2021-10-30T12:48:00.000,2021-10-30T12:48:00.000,2021-08-23T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Australian Cattle Dog Mix,White/Black,
+A843267,A843267,2021-10-30T12:34:00.000,2021-10-30T12:34:00.000,2021-08-19T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Black,
+A844234,Max,2021-10-30T12:24:00.000,2021-10-30T12:24:00.000,2019-10-13T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Siberian Husky Mix,Black/Tan,
+A845401,Spike,2021-10-30T11:49:00.000,2021-10-30T11:49:00.000,2020-10-29T00:00:00.000,Return to Owner,Dog,Intact Male,1 year,German Shepherd Mix,Tan/Black,
+A844784,Pelusa,2021-10-30T11:26:00.000,2021-10-30T11:26:00.000,2010-10-26T00:00:00.000,Return to Owner,Dog,Intact Female,11 years,Yorkshire Terrier Mix,Brown,
+A843233,*Emmett,2021-10-30T09:24:00.000,2021-10-30T09:24:00.000,2019-10-27T00:00:00.000,Transfer,Dog,Intact Male,2 years,Pit Bull,Brown,Partner
+A845425,,2021-10-30T08:55:00.000,2021-10-30T08:55:00.000,2021-04-29T00:00:00.000,Euthanasia,Other,Unknown,6 months,Raccoon,Brown/Black,Suffering
+A845300,,2021-10-30T00:00:00.000,2021-10-30T00:00:00.000,2019-10-27T00:00:00.000,Transfer,Cat,Intact Male,2 years,Domestic Shorthair,Brown Tabby,Snr
+A845301,,2021-10-30T00:00:00.000,2021-10-30T00:00:00.000,2019-10-27T00:00:00.000,Transfer,Cat,Intact Female,2 years,Domestic Shorthair,Tortie,Snr
+A844958,*Bandita,2021-10-29T18:31:00.000,2021-10-29T18:31:00.000,2020-10-23T00:00:00.000,Adoption,Dog,Spayed Female,1 year,Alaskan Husky,Gray/White,
+A843389,Sushi,2021-10-29T18:21:00.000,2021-10-29T18:21:00.000,2021-04-30T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair Mix,Brown Tabby/White,
+A845155,Smokey,2021-10-29T18:07:00.000,2021-10-29T18:07:00.000,2021-06-26T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair,Black,
+A491338,Honey,2021-10-29T17:27:00.000,2021-10-29T17:27:00.000,2006-10-29T00:00:00.000,Return to Owner,Dog,Spayed Female,15 years,Labrador Retriever Mix,Yellow,
+A844748,Scooter,2021-10-29T17:16:00.000,2021-10-29T17:16:00.000,2021-06-19T00:00:00.000,Adoption,Cat,Spayed Female,4 months,Domestic Shorthair,Blue Tabby,
+A844924,*Penelope,2021-10-29T16:46:00.000,2021-10-29T16:46:00.000,2021-06-07T00:00:00.000,Adoption,Dog,Spayed Female,4 months,German Shepherd Mix,Black/Brown,
+A841511,A841511,2021-10-29T16:37:00.000,2021-10-29T16:37:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby,
+A844375,*Simon,2021-10-29T16:31:00.000,2021-10-29T16:31:00.000,2019-10-15T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Pit Bull,Blue/White,
+A841513,*Muddy Waters,2021-10-29T16:14:00.000,2021-10-29T16:14:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby/White,
+A842288,*Brie,2021-10-29T15:51:00.000,2021-10-29T15:51:00.000,2021-08-07T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Black,
+A844463,A844463,2021-10-29T15:45:00.000,2021-10-29T15:45:00.000,2021-07-16T00:00:00.000,Adoption,Dog,Neutered Male,3 months,Labrador Retriever,Black,
+A845148,*Carrie,2021-10-29T15:22:00.000,2021-10-29T15:22:00.000,2021-08-20T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Pit Bull,Brown Brindle/White,
+A845362,A845362,2021-10-29T14:35:00.000,2021-10-29T14:35:00.000,2021-10-07T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Longhair,Black,Partner
+A842353,*Jazz,2021-10-29T14:20:00.000,2021-10-29T14:20:00.000,2021-08-11T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,Foster
+A843977,*Persy,2021-10-29T14:19:00.000,2021-10-29T14:19:00.000,2019-10-09T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Pit Bull,Tan,
+A832574,*Kimchi,2021-10-29T14:15:00.000,2021-10-29T14:15:00.000,2019-04-15T00:00:00.000,Adoption,Cat,Spayed Female,2 years,Domestic Shorthair,Brown Tabby,Foster
+A620616,Midnight,2021-10-29T14:01:00.000,2021-10-29T14:01:00.000,2008-02-22T00:00:00.000,Return to Owner,Cat,Intact Female,13 years,Domestic Shorthair,Tortie,
+A843891,*Duncan,2021-10-29T13:37:00.000,2021-10-29T13:37:00.000,2021-08-25T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby,
+A845150,*Janet,2021-10-29T13:16:00.000,2021-10-29T13:16:00.000,2021-08-26T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Pit Bull,White/Brown Brindle,
+A845388,,2021-10-29T13:00:00.000,2021-10-29T13:00:00.000,2019-10-29T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown,Rabies Risk
+A842883,*Dax,2021-10-29T12:48:00.000,2021-10-29T12:48:00.000,2020-12-22T00:00:00.000,Adoption,Dog,Spayed Female,10 months,Pit Bull Mix,Brown/White,
+A844655,*Kumandra,2021-10-29T12:47:00.000,2021-10-29T12:47:00.000,2018-10-18T00:00:00.000,Adoption,Dog,Neutered Male,3 years,Siberian Husky,Black/White,
+A845114,Andy,2021-10-29T11:41:00.000,2021-10-29T11:41:00.000,2016-10-25T00:00:00.000,Return to Owner,Dog,Neutered Male,5 years,Miniature Poodle Mix,White,
+A845052,A845052,2021-10-29T10:41:00.000,2021-10-29T10:41:00.000,2020-12-25T00:00:00.000,Transfer,Cat,Intact Male,10 months,Domestic Shorthair,Fawn/White,Partner
+A845086,A845086,2021-10-29T10:39:00.000,2021-10-29T10:39:00.000,2021-05-10T00:00:00.000,Transfer,Dog,Intact Male,5 months,Chihuahua Shorthair,White/Brown,Partner
+A471683,Smudge,2021-10-29T06:58:00.000,2021-10-29T06:58:00.000,2007-03-15T00:00:00.000,Adoption,Cat,Spayed Female,14 years,Domestic Shorthair Mix,Black Smoke/Black Tabby,Foster
+A791257,Scooby,2021-10-28T18:30:00.000,2021-10-28T18:30:00.000,2018-03-25T00:00:00.000,Return to Owner,Dog,Neutered Male,3 years,Bullmastiff Mix,Brown/Black,
+A845149,*Corin,2021-10-28T18:13:00.000,2021-10-28T18:13:00.000,2021-08-20T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Pit Bull,Brown Brindle/White,
+A845340,Koda,2021-10-28T18:07:00.000,2021-10-28T18:07:00.000,2020-10-28T00:00:00.000,Return to Owner,Dog,Intact Male,1 year,Siberian Husky,Gray/White,
+A845147,Vanilla,2021-10-28T17:37:00.000,2021-10-28T17:37:00.000,2021-06-26T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Siamese Mix,Lynx Point,
+A845145,Oreo,2021-10-28T17:09:00.000,2021-10-28T17:09:00.000,2021-06-26T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair,Black/White,
+A844873,*Sport,2021-10-28T17:04:00.000,2021-10-28T17:04:00.000,2020-12-21T00:00:00.000,Adoption,Dog,Neutered Male,10 months,Labrador Retriever Mix,Black/White,
+A845201,Safarii,2021-10-28T17:02:00.000,2021-10-28T17:02:00.000,2021-02-27T00:00:00.000,Return to Owner,Dog,Intact Female,7 months,French Bulldog,Brown Brindle,
+A842290,*Ricotta,2021-10-28T16:44:00.000,2021-10-28T16:44:00.000,2021-08-07T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Calico,
+A845085,Tom,2021-10-28T16:23:00.000,2021-10-28T16:23:00.000,2019-10-25T00:00:00.000,Adoption,Cat,Neutered Male,2 years,Domestic Shorthair,Brown Tabby/White,
+A845146,Caramelo,2021-10-28T16:18:00.000,2021-10-28T16:18:00.000,2021-06-26T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Siamese Mix,Seal Point,
+A845332,Baby,2021-10-28T16:16:00.000,2021-10-28T16:16:00.000,2020-05-28T00:00:00.000,Return to Owner,Dog,Spayed Female,1 year,Pit Bull,Fawn/White,
+A820722,Sky,2021-10-28T16:16:00.000,2021-10-28T16:16:00.000,2019-12-27T00:00:00.000,Return to Owner,Dog,Intact Female,1 year,Pit Bull Mix,Fawn/White,
+A845074,A845074,2021-10-28T15:46:00.000,2021-10-28T15:46:00.000,2021-08-12T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby/White,
+A845073,A845073,2021-10-28T15:46:00.000,2021-10-28T15:46:00.000,2021-08-12T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,White/Brown Tabby,
+A845339,221 Grams,2021-10-28T15:45:00.000,2021-10-28T15:45:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Male,4 weeks,Domestic Shorthair,Blue Tabby/White,Partner
+A845337,436 Grams,2021-10-28T15:44:00.000,2021-10-28T15:44:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Male,4 weeks,Domestic Shorthair,Blue Tabby/White,Partner
+A806688,Caramela,2021-10-28T15:11:00.000,2021-10-28T15:11:00.000,2019-02-14T00:00:00.000,Transfer,Dog,Intact Female,2 years,Chihuahua Shorthair,Brown,Partner
+A844975,Chiquita,2021-10-28T15:11:00.000,2021-10-28T15:11:00.000,2020-10-23T00:00:00.000,Transfer,Dog,Intact Female,1 year,Dachshund Wirehair Mix,Gray,Partner
+A844976,Blanca,2021-10-28T15:11:00.000,2021-10-28T15:11:00.000,2019-10-23T00:00:00.000,Transfer,Dog,Intact Female,2 years,Cairn Terrier,White/Brown,Partner
+A843098,*Tornado,2021-10-28T14:58:00.000,2021-10-28T14:58:00.000,2019-09-27T00:00:00.000,Adoption,Cat,Neutered Male,2 years,Domestic Shorthair,Black/White,
+A844164,Marley,2021-10-28T14:50:00.000,2021-10-28T14:50:00.000,2016-10-27T00:00:00.000,Return to Owner,Dog,Intact Male,5 years,Dachshund/Chihuahua Shorthair,Brown/White,
+A842711,*Javier,2021-10-28T14:36:00.000,2021-10-28T14:36:00.000,2021-08-13T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby/White,Foster
+A842746,*Cobweb,2021-10-28T14:34:00.000,2021-10-28T14:34:00.000,2021-08-30T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair,Black,Foster
+A844847,*Bitsy,2021-10-28T13:48:00.000,2021-10-28T13:48:00.000,2020-12-21T00:00:00.000,Adoption,Dog,Spayed Female,10 months,Australian Cattle Dog,Black/White,
+A841516,,2021-10-28T13:37:00.000,2021-10-28T13:37:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Blue Tabby,
+A845013,,2021-10-28T12:26:00.000,2021-10-28T12:26:00.000,2021-05-24T00:00:00.000,Transfer,Dog,Intact Female,5 months,Great Pyrenees,Cream,Partner
+A845311,,2021-10-28T09:54:00.000,2021-10-28T09:54:00.000,2019-10-27T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown/Brown,Rabies Risk
+A845219,,2021-10-28T08:43:00.000,2021-10-28T08:43:00.000,2020-10-27T00:00:00.000,Euthanasia,Other,Unknown,1 year,Bat,Brown,Rabies Risk
+A743439,*Jezzy,2021-10-28T08:33:00.000,2021-10-28T08:33:00.000,2013-02-10T00:00:00.000,Transfer,Dog,Intact Female,8 years,Pit Bull Mix,Brown Brindle/White,Partner
+A844875,,2021-10-27T18:56:00.000,2021-10-27T18:56:00.000,2020-10-21T00:00:00.000,Adoption,Dog,Spayed Female,1 year,Cairn Terrier Mix,Tan/White,
+A843938,*Fiona,2021-10-27T18:48:00.000,2021-10-27T18:48:00.000,2019-10-08T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Great Pyrenees Mix,White/Tan,
+A844821,Dallas,2021-10-27T18:37:00.000,2021-10-27T18:37:00.000,2020-05-20T00:00:00.000,Adoption,Dog,Spayed Female,1 year,Golden Retriever Mix,Gold/White,
+A845151,Coco,2021-10-27T18:25:00.000,2021-10-27T18:25:00.000,2021-07-26T00:00:00.000,Adoption,Dog,Spayed Female,3 months,Chihuahua Shorthair Mix,Brown Merle,
+A842503,*Margeaux,2021-10-27T18:20:00.000,2021-10-27T18:20:00.000,2021-08-07T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Labrador Retriever Mix,Brown,
+A841512,,2021-10-27T18:06:00.000,2021-10-27T18:06:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,
+A843773,A843773,2021-10-27T18:06:00.000,2021-10-27T18:06:00.000,2021-06-29T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Tortie,
+A841517,,2021-10-27T18:03:00.000,2021-10-27T18:03:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Blue Tabby,
+A844359,Mr. Mans,2021-10-27T17:47:00.000,2021-10-27T17:47:00.000,2018-10-15T00:00:00.000,Rto-Adopt,Cat,Neutered Male,3 years,Domestic Shorthair,Black/White,
+A845299,,2021-10-27T17:42:00.000,2021-10-27T17:42:00.000,2019-10-27T00:00:00.000,Transfer,Cat,Intact Female,2 years,Domestic Shorthair,Torbie,Partner
+A845297,,2021-10-27T17:41:00.000,2021-10-27T17:41:00.000,2021-10-25T00:00:00.000,Transfer,Cat,Unknown,2 days,Domestic Shorthair,Torbie,Partner
+A845296,,2021-10-27T17:41:00.000,2021-10-27T17:41:00.000,2021-10-25T00:00:00.000,Transfer,Cat,Unknown,2 days,Domestic Shorthair,Torbie,Partner
+A845298,,2021-10-27T17:41:00.000,2021-10-27T17:41:00.000,2019-10-27T00:00:00.000,Transfer,Cat,Intact Female,2 years,Domestic Shorthair,Torbie,Partner
+A845295,,2021-10-27T17:40:00.000,2021-10-27T17:40:00.000,2021-10-25T00:00:00.000,Transfer,Cat,Unknown,2 days,Domestic Shorthair,Torbie,Partner
+A841515,,2021-10-27T17:36:00.000,2021-10-27T17:36:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,
+A844946,A844946,2021-10-27T17:34:00.000,2021-10-27T17:34:00.000,2021-01-22T00:00:00.000,Adoption,Dog,Spayed Female,9 months,German Shepherd Mix,White,
+A844842,A844842,2021-10-27T16:58:00.000,2021-10-27T16:58:00.000,2020-10-21T00:00:00.000,Adoption,Dog,Neutered Male,1 year,German Shepherd,Brown/Black,
+A844807,Walnut,2021-10-27T16:47:00.000,2021-10-27T16:47:00.000,2019-10-20T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Chihuahua Shorthair,Tan,
+A814670,Falco,2021-10-27T16:39:00.000,2021-10-27T16:39:00.000,2020-01-03T00:00:00.000,Rto-Adopt,Dog,Neutered Male,1 year,American Staffordshire Terrier,Fawn/White,
+A841665,Lucky,2021-10-27T16:36:00.000,2021-10-27T16:36:00.000,2020-08-31T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Brown,
+A844272,Vamp,2021-10-27T16:32:00.000,2021-10-27T16:32:00.000,2021-08-18T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black,
+A844914,,2021-10-27T16:31:00.000,2021-10-27T16:31:00.000,2021-08-07T00:00:00.000,Died,Dog,Intact Female,2 months,Labrador Retriever Mix,Black/White,In Surgery
+A844800,Salem,2021-10-27T16:24:00.000,2021-10-27T16:24:00.000,2021-08-05T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black,
+A844665,*Clarice,2021-10-27T16:12:00.000,2021-10-27T16:12:00.000,2019-10-19T00:00:00.000,Adoption,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Tortie,
+A845265,393G,2021-10-27T16:00:00.000,2021-10-27T16:00:00.000,2021-10-05T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair,Black Smoke,Partner
+A842349,*Cashew,2021-10-27T15:11:00.000,2021-10-27T15:11:00.000,2021-08-11T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Blue Tabby,Foster
+A842747,*Pumpkin,2021-10-27T15:09:00.000,2021-10-27T15:09:00.000,2021-08-30T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair,Orange Tabby,Foster
+A845253,,2021-10-27T15:04:00.000,2021-10-27T15:04:00.000,2019-10-27T00:00:00.000,Euthanasia,Other,Unknown,NULL,Bat,Black/Gray,Rabies Risk
+A845041,,2021-10-27T13:17:00.000,2021-10-27T13:17:00.000,2019-10-25T00:00:00.000,Return to Owner,Cat,Unknown,2 years,Domestic Shorthair,Orange Tabby,
+A845043,,2021-10-27T13:16:00.000,2021-10-27T13:16:00.000,2019-10-25T00:00:00.000,Return to Owner,Cat,Unknown,2 years,Domestic Shorthair,Brown Tabby/White,
+A845179,Bailey,2021-10-27T12:45:00.000,2021-10-27T12:45:00.000,2019-10-26T00:00:00.000,Return to Owner,Dog,Intact Male,2 years,Maltese/Miniature Poodle,White/Black,
+A842461,*Ruby,2021-10-27T09:50:00.000,2021-10-27T09:50:00.000,2021-08-05T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie,Foster
+A845199,,2021-10-27T09:39:00.000,2021-10-27T09:39:00.000,2019-10-27T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown,Rabies Risk
+A845187,,2021-10-27T08:28:00.000,2021-10-27T08:28:00.000,2019-10-26T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Red/Red,Rabies Risk
+A845181,,2021-10-27T08:27:00.000,2021-10-27T08:27:00.000,2019-10-26T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown/Brown,Rabies Risk
+A843134,*Brianna,2021-10-26T19:12:00.000,2021-10-26T19:12:00.000,2019-09-27T00:00:00.000,Adoption,Dog,Spayed Female,2 years,American Pit Bull Terrier/Black Mouth Cur,Brown/Black,
+A844777,,2021-10-26T18:29:00.000,2021-10-26T18:29:00.000,2021-08-05T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,White/Blue,
+A845021,Peluchin,2021-10-26T18:27:00.000,2021-10-26T18:27:00.000,2006-09-24T00:00:00.000,Return to Owner,Dog,Neutered Male,15 years,Miniature Poodle,White,
+A844644,A844644,2021-10-26T18:26:00.000,2021-10-26T18:26:00.000,2021-06-03T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Brown Tabby,
+A841902,*Ellie,2021-10-26T18:18:00.000,2021-10-26T18:18:00.000,2013-10-06T00:00:00.000,Adoption,Dog,Spayed Female,8 years,Pit Bull,Black/White,
+A844816,,2021-10-26T18:12:00.000,2021-10-26T18:12:00.000,2021-08-20T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Pit Bull Mix,Blue/White,
+A844813,Pooter,2021-10-26T18:01:00.000,2021-10-26T18:01:00.000,2021-06-20T00:00:00.000,Adoption,Dog,Neutered Male,4 months,Beagle,Brown,
+A844189,*Nala,2021-10-26T17:50:00.000,2021-10-26T17:50:00.000,2018-10-13T00:00:00.000,Adoption,Dog,Spayed Female,3 years,Beagle Mix,Black/White,
+A844776,Frankenstein,2021-10-26T17:47:00.000,2021-10-26T17:47:00.000,2021-06-24T00:00:00.000,Adoption,Dog,Spayed Female,4 months,Black Mouth Cur Mix,Tan/White,
+A842196,*Morrisey,2021-10-26T17:44:00.000,2021-10-26T17:44:00.000,2020-09-11T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Labrador Retriever/Pit Bull,Brown/White,
+A844382,,2021-10-26T17:34:00.000,2021-10-26T17:34:00.000,2021-08-15T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,
+A844080,*Ender,2021-10-26T17:29:00.000,2021-10-26T17:29:00.000,2021-02-11T00:00:00.000,Adoption,Dog,Neutered Male,8 months,Catahoula,Brown Merle/White,
+A844794,*Quail,2021-10-26T17:24:00.000,2021-10-26T17:24:00.000,2021-08-20T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Labrador Retriever Mix,Yellow,
+A845172,127 G,2021-10-26T17:18:00.000,2021-10-26T17:18:00.000,2021-10-19T00:00:00.000,Transfer,Cat,Intact Male,1 week,Domestic Shorthair,Black/Black,Partner
+A844848,Leo,2021-10-26T17:18:00.000,2021-10-26T17:18:00.000,2021-07-21T00:00:00.000,Adoption,Dog,Neutered Male,3 months,Labrador Retriever/German Shepherd,White,
+A845162,186 G,2021-10-26T17:18:00.000,2021-10-26T17:18:00.000,2021-10-11T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair,Gray Tabby,Partner
+A845161,252 G,2021-10-26T17:17:00.000,2021-10-26T17:17:00.000,2021-10-11T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair,Torbie,Partner
+A845160,251 G,2021-10-26T17:17:00.000,2021-10-26T17:17:00.000,2021-10-11T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair,Orange Tabby,Partner
+A843511,*Romeo,2021-10-26T17:11:00.000,2021-10-26T17:11:00.000,2019-10-02T00:00:00.000,Adoption,Cat,Neutered Male,2 years,Domestic Shorthair,Orange Tabby,
+A842816,*Krampus,2021-10-26T17:06:00.000,2021-10-26T17:06:00.000,2014-09-22T00:00:00.000,Adoption,Dog,Neutered Male,7 years,German Shepherd,Tan/Black,
+A844812,A844812,2021-10-26T16:57:00.000,2021-10-26T16:57:00.000,2021-06-20T00:00:00.000,Adoption,Dog,Spayed Female,4 months,Beagle,Tan,
+A844771,,2021-10-26T16:57:00.000,2021-10-26T16:57:00.000,2021-05-20T00:00:00.000,Adoption,Dog,Spayed Female,5 months,Chihuahua Shorthair/Dachshund,White/Black,
+A845022,,2021-10-26T16:55:00.000,2021-10-26T16:55:00.000,2021-02-24T00:00:00.000,Euthanasia,Dog,Spayed Female,NULL,Australian Cattle Dog Mix,White/Red Merle,Medical
+A844572,,2021-10-26T16:46:00.000,2021-10-26T16:46:00.000,2020-10-17T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Catahoula/Great Pyrenees,Brown Merle/White,
+A844815,Kaash,2021-10-26T16:42:00.000,2021-10-26T16:42:00.000,2021-08-20T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Catahoula Mix,Blue Merle/White,
+A843413,*Winnie,2021-10-26T16:26:00.000,2021-10-26T16:26:00.000,2021-08-17T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black/White,Foster
+A844944,Raven,2021-10-26T16:15:00.000,2021-10-26T16:15:00.000,2021-05-22T00:00:00.000,Adoption,Dog,Spayed Female,5 months,Pit Bull Mix,Black/White,
+A845070,A845070,2021-10-26T16:03:00.000,2021-10-26T16:03:00.000,2021-08-12T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,White/Brown Tabby,
+A844932,,2021-10-26T15:43:00.000,2021-10-26T15:43:00.000,2019-10-22T00:00:00.000,Disposal,Dog,Intact Male,2 years,Chihuahua Shorthair,White/Brown,
+A839319,,2021-10-26T15:27:00.000,2021-10-26T15:27:00.000,2021-07-14T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Brown Tabby,Foster
+A839320,,2021-10-26T15:27:00.000,2021-10-26T15:27:00.000,2021-07-14T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Brown Tabby,Foster
+A845126,Alita,2021-10-26T15:21:00.000,2021-10-26T15:21:00.000,2019-10-25T00:00:00.000,Return to Owner,Cat,Spayed Female,2 years,Domestic Shorthair,Torbie,
+A845125,Boh,2021-10-26T15:20:00.000,2021-10-26T15:20:00.000,2019-10-25T00:00:00.000,Return to Owner,Cat,Neutered Male,2 years,Domestic Shorthair,Brown Tabby,
+A833010,Odie,2021-10-26T14:57:00.000,2021-10-26T14:57:00.000,2020-04-22T00:00:00.000,Rto-Adopt,Dog,Neutered Male,1 year,Mastiff Mix,Brown/White,
+A842172,Sunderlin,2021-10-26T14:48:00.000,2021-10-26T14:48:00.000,2016-09-10T00:00:00.000,Adoption,Cat,Neutered Male,5 years,Domestic Shorthair Mix,Black/White,
+A830449,Ruffy,2021-10-26T14:30:00.000,2021-10-26T14:30:00.000,2020-01-09T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Labrador Retriever/German Shepherd,Black,
+A804784,Diamond,2021-10-26T14:07:00.000,2021-10-26T14:07:00.000,2016-09-20T00:00:00.000,Adoption,Dog,Spayed Female,5 years,Staffordshire Mix,White/Black,Foster
+A842330,Sirius,2021-10-26T14:07:00.000,2021-10-26T14:07:00.000,2018-09-14T00:00:00.000,Adoption,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Black/White,
+A841369,*Mozart,2021-10-26T13:36:00.000,2021-10-26T13:36:00.000,2021-08-04T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black Smoke,Foster
+A841370,*Bach,2021-10-26T13:35:00.000,2021-10-26T13:35:00.000,2021-08-04T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black Tabby,Foster
+A841574,*Esmerelda,2021-10-26T13:33:00.000,2021-10-26T13:33:00.000,2021-07-30T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Siamese Mix,Lynx Point/White,Foster
+A843315,Buttercup,2021-10-26T13:31:00.000,2021-10-26T13:31:00.000,2020-12-29T00:00:00.000,Adoption,Other,Intact Female,9 months,Rex,Tricolor,Foster
+A843314,Cottontail,2021-10-26T13:30:00.000,2021-10-26T13:30:00.000,2020-12-29T00:00:00.000,Adoption,Other,Intact Female,9 months,Rex,Brown/White,Foster
+A842568,Peggy Sue,2021-10-26T13:26:00.000,2021-10-26T13:26:00.000,2014-03-17T00:00:00.000,Adoption,Dog,Spayed Female,7 years,Border Collie/Australian Shepherd,White/Black,Foster
+A840261,*Charlie,2021-10-26T13:24:00.000,2021-10-26T13:24:00.000,2021-06-19T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair,Cream Tabby,Foster
+A840263,*Sally,2021-10-26T13:23:00.000,2021-10-26T13:23:00.000,2021-06-19T00:00:00.000,Adoption,Cat,Spayed Female,4 months,Domestic Shorthair,Agouti/White,Foster
+A840896,*Scooter,2021-10-26T13:04:00.000,2021-10-26T13:04:00.000,2021-07-02T00:00:00.000,Adoption,Dog,Neutered Male,3 months,Cairn Terrier,Tan,Foster
+A844471,Zeus,2021-10-26T12:25:00.000,2021-10-26T12:25:00.000,2021-05-16T00:00:00.000,Return to Owner,Dog,Neutered Male,5 months,Rottweiler Mix,Black/Tan,
+A845014,A845014,2021-10-26T12:20:00.000,2021-10-26T12:20:00.000,2021-09-06T00:00:00.000,Died,Cat,Intact Male,1 month,Domestic Longhair,Cream/White,In Kennel
+A845023,Marley,2021-10-26T12:18:00.000,2021-10-26T12:18:00.000,2018-06-26T00:00:00.000,Return to Owner,Dog,Neutered Male,3 years,Rottweiler/German Shepherd,Black/Brown,
+A843554,*Benji,2021-10-26T10:31:00.000,2021-10-26T10:31:00.000,2019-10-03T00:00:00.000,Died,Dog,Neutered Male,2 years,Border Terrier Mix,Brown,In Foster
+A844460,*Birch,2021-10-26T10:19:00.000,2021-10-26T10:19:00.000,2021-09-16T00:00:00.000,Died,Cat,Intact Male,1 month,Domestic Shorthair,White/Brown Tabby,In Foster
+A840200,*Bean,2021-10-26T09:52:00.000,2021-10-26T09:52:00.000,2019-08-03T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Pit Bull Mix,Brown Brindle/White,Foster
+A845053,,2021-10-26T08:15:00.000,2021-10-26T08:15:00.000,2020-10-25T00:00:00.000,Disposal,Other,Unknown,1 year,Raccoon,Brown/Black,
+A841509,*Cricket,2021-10-25T19:31:00.000,2021-10-25T19:31:00.000,2020-08-28T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Medium Hair,Brown Tabby,
+A845083,Koda,2021-10-25T19:07:00.000,2021-10-25T19:07:00.000,2021-05-25T00:00:00.000,Return to Owner,Dog,Intact Male,5 months,Alaskan Husky,Brown/White,
+A844869,Zoey,2021-10-25T19:02:00.000,2021-10-25T19:02:00.000,2021-04-21T00:00:00.000,Adoption,Cat,Spayed Female,6 months,Domestic Shorthair,Calico,
+A844738,Atlas,2021-10-25T18:48:00.000,2021-10-25T18:48:00.000,2021-08-13T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Anatol Shepherd,Brown,
+A845109,Gordo,2021-10-25T18:43:00.000,2021-10-25T18:43:00.000,2017-05-25T00:00:00.000,Adoption,Dog,Neutered Male,4 years,Yorkshire Terrier/Standard Schnauzer,Tan/Gray,
+A843644,*Rose,2021-10-25T18:42:00.000,2021-10-25T18:42:00.000,2021-04-04T00:00:00.000,Adoption,Cat,Spayed Female,6 months,Domestic Shorthair Mix,Torbie,
+A841867,*Conan,2021-10-25T18:30:00.000,2021-10-25T18:30:00.000,2021-04-04T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair,Orange Tabby,
+A844737,Luna,2021-10-25T18:23:00.000,2021-10-25T18:23:00.000,2021-08-13T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Anatol Shepherd,Brown,
+A844712,Mocho,2021-10-25T18:21:00.000,2021-10-25T18:21:00.000,2019-10-20T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Chihuahua Shorthair Mix,Chocolate/Tan,
+A844735,A844735,2021-10-25T18:07:00.000,2021-10-25T18:07:00.000,2021-08-13T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Anatol Shepherd,Brown,
+A843340,*Almond Joy,2021-10-25T17:49:00.000,2021-10-25T17:49:00.000,2021-08-17T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Black/White,
+A844664,Nova,2021-10-25T17:47:00.000,2021-10-25T17:47:00.000,2019-10-21T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Border Collie Mix,Black/White,
+A844698,,2021-10-25T17:41:00.000,2021-10-25T17:41:00.000,2021-06-19T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Orange Tabby/White,
+A844790,Niki,2021-10-25T17:33:00.000,2021-10-25T17:33:00.000,2020-04-20T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Tortie,
+A844380,,2021-10-25T17:32:00.000,2021-10-25T17:32:00.000,2021-08-15T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby,
+A844868,Grey,2021-10-25T17:24:00.000,2021-10-25T17:24:00.000,2021-04-21T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair,Blue,
+A843960,*Fancy,2021-10-25T17:15:00.000,2021-10-25T17:15:00.000,2020-12-09T00:00:00.000,Adoption,Dog,Spayed Female,10 months,Border Collie Mix,Black,
+A844661,Maddie,2021-10-25T17:12:00.000,2021-10-25T17:12:00.000,2019-10-18T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Dachshund Mix,Brown/Tan,
+A843947,A843947,2021-10-25T17:05:00.000,2021-10-25T17:05:00.000,2021-08-18T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby,
+A845091,294 G,2021-10-25T17:00:00.000,2021-10-25T17:00:00.000,2021-10-10T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair,Cream Tabby/White,Partner
+A845093,257 G,2021-10-25T17:00:00.000,2021-10-25T17:00:00.000,2021-10-10T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair,Blue,Partner
+A845090,292 G,2021-10-25T17:00:00.000,2021-10-25T17:00:00.000,2021-10-10T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair,Cream Tabby,Partner
+A845092,173 G,2021-10-25T17:00:00.000,2021-10-25T17:00:00.000,2021-10-10T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair,Tortie,Partner
+A845089,243 G,2021-10-25T17:00:00.000,2021-10-25T17:00:00.000,2021-10-10T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair,Orange Tabby,Partner
+A844728,A844728,2021-10-25T16:58:00.000,2021-10-25T16:58:00.000,2021-06-19T00:00:00.000,Adoption,Cat,Spayed Female,4 months,Domestic Shorthair,Tortie Point/White,
+A844407,*Hans,2021-10-25T16:58:00.000,2021-10-25T16:58:00.000,2021-01-15T00:00:00.000,Adoption,Dog,Neutered Male,9 months,Rottweiler,Black/Brown,
+A844731,A844731,2021-10-25T16:55:00.000,2021-10-25T16:55:00.000,2021-06-19T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair,Flame Point/White,
+A844775,A844775,2021-10-25T16:44:00.000,2021-10-25T16:44:00.000,2021-05-29T00:00:00.000,Adoption,Dog,Spayed Female,4 months,Labrador Retriever Mix,Tan,
+A844644,A844644,2021-10-25T16:36:00.000,2021-10-25T16:36:00.000,2021-06-03T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Brown Tabby,
+A844062,*Tegan,2021-10-25T16:27:00.000,2021-10-25T16:27:00.000,2021-08-27T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair Mix,Black/White,
+A844666,A844666,2021-10-25T16:18:00.000,2021-10-25T16:18:00.000,2021-05-04T00:00:00.000,Adoption,Cat,Spayed Female,5 months,Domestic Shorthair Mix,Blue Tabby,
+A843312,*Harry,2021-10-25T16:18:00.000,2021-10-25T16:18:00.000,2017-10-05T00:00:00.000,Adoption,Dog,Neutered Male,4 years,Labrador Retriever Mix,Tan,
+A844643,Nobu,2021-10-25T16:17:00.000,2021-10-25T16:17:00.000,2021-06-03T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Siamese Mix,Lynx Point,
+A844390,*Sadie,2021-10-25T16:06:00.000,2021-10-25T16:06:00.000,2020-10-15T00:00:00.000,Transfer,Dog,Intact Female,1 year,Siberian Husky,White/Black,Out State
+A840463,*Duke,2021-10-25T16:05:00.000,2021-10-25T16:05:00.000,2020-02-09T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Labrador Retriever,White,Foster
+A840487,*Jill,2021-10-25T16:02:00.000,2021-10-25T16:02:00.000,2021-04-25T00:00:00.000,Adoption,Cat,Spayed Female,6 months,Domestic Shorthair,Brown Tabby,
+A844769,A844769,2021-10-25T15:52:00.000,2021-10-25T15:52:00.000,2021-08-20T00:00:00.000,Adoption,Dog,Spayed Female,2 months,German Shepherd,Brown/Black,
+A844982,,2021-10-25T15:39:00.000,2021-10-25T15:39:00.000,2019-10-23T00:00:00.000,Return to Owner,Cat,Neutered Male,2 years,Domestic Shorthair,Black/White,
+A844950,Willy,2021-10-25T15:24:00.000,2021-10-25T15:24:00.000,2011-10-23T00:00:00.000,Return to Owner,Dog,Neutered Male,10 years,Chihuahua Shorthair,White/Black,
+A839209,Bella,2021-10-25T15:15:00.000,2021-10-25T15:15:00.000,2018-07-18T00:00:00.000,Transfer,Dog,Spayed Female,3 years,German Shepherd Mix,Brown/Black,Partner
+A845058,Lucas,2021-10-25T15:14:00.000,2021-10-25T15:14:00.000,2019-10-25T00:00:00.000,Return to Owner,Dog,Intact Male,2 years,Boxer Mix,White/Tan,
+A845059,Pitufa,2021-10-25T15:10:00.000,2021-10-25T15:10:00.000,2020-12-25T00:00:00.000,Return to Owner,Dog,Intact Female,9 months,Bull Terrier Mix,Brown Brindle/White,
+A845060,Rexito,2021-10-25T15:04:00.000,2021-10-25T15:04:00.000,2020-12-25T00:00:00.000,Return to Owner,Dog,Intact Male,9 months,Bull Terrier Mix,Brown Brindle/White,
+A841712,*Phil,2021-10-25T14:33:00.000,2021-10-25T14:33:00.000,2020-09-01T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Brown Tabby,
+A844386,,2021-10-25T14:06:00.000,2021-10-25T14:06:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby,
+A844385,,2021-10-25T14:06:00.000,2021-10-25T14:06:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby,
+A844952,Luna,2021-10-25T13:54:00.000,2021-10-25T13:54:00.000,2021-09-08T00:00:00.000,Transfer,Cat,Intact Female,1 month,Domestic Shorthair,Calico,Partner
+A844827,A844827,2021-10-25T13:53:00.000,2021-10-25T13:53:00.000,2020-10-21T00:00:00.000,Transfer,Cat,Intact Female,1 year,Domestic Shorthair,Gray Tabby,Partner
+A838460,Meow Meow,2021-10-25T13:53:00.000,2021-10-25T13:53:00.000,2014-07-08T00:00:00.000,Transfer,Cat,Neutered Male,7 years,Domestic Shorthair,Blue Tabby,Partner
+A844802,A844802,2021-10-25T13:53:00.000,2021-10-25T13:53:00.000,2021-08-05T00:00:00.000,Transfer,Cat,Intact Male,2 months,Domestic Shorthair Mix,Black,Partner
+A842890,,2021-10-25T13:52:00.000,2021-10-25T13:52:00.000,2021-08-22T00:00:00.000,Transfer,Cat,Intact Male,2 months,Domestic Shorthair,Brown Tabby,Partner
+A842891,,2021-10-25T13:52:00.000,2021-10-25T13:52:00.000,2021-08-22T00:00:00.000,Transfer,Cat,Intact Female,2 months,Domestic Shorthair,Blue Tabby,Partner
+A842401,*Ken,2021-10-25T13:32:00.000,2021-10-25T13:32:00.000,2021-08-06T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black,
+A844840,,2021-10-25T13:03:00.000,2021-10-25T13:03:00.000,2019-10-21T00:00:00.000,Adoption,Cat,Neutered Male,2 years,Domestic Shorthair,Black,
+A844153,Sparky,2021-10-25T13:00:00.000,2021-10-25T13:00:00.000,2011-04-13T00:00:00.000,Adoption,Dog,Neutered Male,10 years,Golden Retriever Mix,Red/White,
+A844660,,2021-10-25T12:21:00.000,2021-10-25T12:21:00.000,2010-10-18T00:00:00.000,Transfer,Dog,Spayed Female,11 years,Maltese Mix,White,Partner
+A795840,Princess,2021-10-25T12:16:00.000,2021-10-25T12:16:00.000,2018-07-25T00:00:00.000,Return to Owner,Dog,Spayed Female,3 years,Catahoula Mix,White/Blue Merle,
+A844874,,2021-10-25T12:14:00.000,2021-10-25T12:14:00.000,2016-10-21T00:00:00.000,Transfer,Dog,Neutered Male,5 years,Yorkshire Terrier Mix,Gold,Partner
+A844837,,2021-10-25T12:14:00.000,2021-10-25T12:14:00.000,2021-02-21T00:00:00.000,Transfer,Dog,Intact Female,8 months,Miniature Schnauzer Mix,Black/White,Partner
+A844607,Tammy,2021-10-25T11:50:00.000,2021-10-25T11:50:00.000,2021-07-18T00:00:00.000,Died,Cat,Intact Female,3 months,Siamese,Tortie Point,In Kennel
+A523770,Mica,2021-10-25T10:15:00.000,2021-10-25T10:15:00.000,2007-12-06T00:00:00.000,Transfer,Cat,Spayed Female,13 years,Domestic Shorthair Mix,Cream Tabby,Partner
+A844695,A844695,2021-10-25T09:00:00.000,2021-10-25T09:00:00.000,2021-02-19T00:00:00.000,Transfer,Cat,Intact Male,8 months,Domestic Longhair Mix,Cream Tabby,Snr
+A844693,A844693,2021-10-25T09:00:00.000,2021-10-25T09:00:00.000,2021-02-19T00:00:00.000,Transfer,Cat,Intact Male,8 months,Domestic Longhair Mix,Orange Tabby/White,Snr
+A844449,,2021-10-25T09:00:00.000,2021-10-25T09:00:00.000,2019-10-16T00:00:00.000,Transfer,Cat,Intact Female,2 years,Domestic Shorthair,Gray/White,Snr
+A844845,,2021-10-25T09:00:00.000,2021-10-25T09:00:00.000,2021-01-21T00:00:00.000,Transfer,Cat,Intact Female,9 months,Domestic Shorthair,Torbie,Snr
+A844694,A844694,2021-10-25T09:00:00.000,2021-10-25T09:00:00.000,2021-02-19T00:00:00.000,Transfer,Cat,Intact Male,8 months,Domestic Longhair Mix,Cream Tabby,Snr
+A843937,*Nona,2021-10-24T19:01:00.000,2021-10-24T19:01:00.000,2021-03-08T00:00:00.000,Adoption,Dog,Spayed Female,7 months,Blue Lacy Mix,Blue/White,
+A844610,*Tyrone,2021-10-24T18:08:00.000,2021-10-24T18:08:00.000,2021-05-18T00:00:00.000,Adoption,Dog,Neutered Male,5 months,Doberman Pinsch Mix,Tricolor,
+A836306,*Raspberry,2021-10-24T17:12:00.000,2021-10-24T17:12:00.000,2021-04-15T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair Mix,Black,
+A845008,,2021-10-24T16:59:00.000,2021-10-24T16:59:00.000,2019-10-24T00:00:00.000,Euthanasia,Other,Unknown,2 years,Raccoon,Gray/Black,Rabies Risk
+A844388,,2021-10-24T16:59:00.000,2021-10-24T16:59:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby,
+A782562,Bakugo,2021-10-24T16:30:00.000,2021-10-24T16:30:00.000,2018-08-02T00:00:00.000,Transfer,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Orange Tabby,Partner
+A843774,*Greg,2021-10-24T16:10:00.000,2021-10-24T16:10:00.000,2021-07-18T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Black,
+A844746,Mack,2021-10-24T15:48:00.000,2021-10-24T15:48:00.000,2021-06-19T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair,Lynx Point,
+A843982,*Swan,2021-10-24T15:43:00.000,2021-10-24T15:43:00.000,2021-08-09T00:00:00.000,Transfer,Dog,Intact Female,2 months,Chihuahua Shorthair,Tan,Partner
+A837455,*Charles,2021-10-24T15:23:00.000,2021-10-24T15:23:00.000,2018-06-23T00:00:00.000,Adoption,Dog,Neutered Male,3 years,Pit Bull,Blue/White,
+A836678,Smoke,2021-10-24T14:32:00.000,2021-10-24T14:32:00.000,2020-08-13T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Pit Bull,Blue/White,
+A841048,Jojo,2021-10-24T14:28:00.000,2021-10-24T14:28:00.000,2021-07-06T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Brown Tabby,
+A841498,Dwayne,2021-10-24T14:00:00.000,2021-10-24T14:00:00.000,2019-08-28T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Belgian Malinois,Brown/Black,
+A666900,Acorn,2021-10-24T13:33:00.000,2021-10-24T13:33:00.000,2012-11-08T00:00:00.000,Adoption,Dog,Neutered Male,8 years,Miniature Schnauzer Mix,Gray,
+A844772,Thanos,2021-10-24T12:04:00.000,2021-10-24T12:04:00.000,2008-10-20T00:00:00.000,Transfer,Dog,Intact Male,13 years,Rat Terrier,White/Tricolor,Partner
+A844409,A844409,2021-10-24T11:38:00.000,2021-10-24T11:38:00.000,2020-10-15T00:00:00.000,Transfer,Dog,Intact Female,1 year,Pug,Fawn/Black,Partner
+A840397,*Bolin,2021-10-24T11:36:00.000,2021-10-24T11:36:00.000,2019-08-06T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Labrador Retriever/Carolina Dog,Tan/White,
+A844947,,2021-10-24T11:18:00.000,2021-10-24T11:18:00.000,2019-10-22T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown,Rabies Risk
+A844992,,2021-10-24T11:01:00.000,2021-10-24T11:01:00.000,2021-07-24T00:00:00.000,Euthanasia,Cat,Unknown,NULL,Domestic Shorthair,Black/White,Suffering
+A843726,Frost,2021-10-23T19:21:00.000,2021-10-23T19:21:00.000,2021-01-05T00:00:00.000,Adoption,Dog,Neutered Male,9 months,German Shepherd Mix,Tricolor,
+A844702,Nieves,2021-10-23T18:36:00.000,2021-10-23T18:36:00.000,2020-12-19T00:00:00.000,Adoption,Dog,Spayed Female,10 months,Labrador Retriever,White/Black,
+A844288,Fuego,2021-10-23T18:32:00.000,2021-10-23T18:32:00.000,2015-10-14T00:00:00.000,Adoption,Dog,Neutered Male,6 years,Labrador Retriever Mix,White/Tan,
+A844387,,2021-10-23T18:31:00.000,2021-10-23T18:31:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby,
+A844867,Rage,2021-10-23T18:08:00.000,2021-10-23T18:08:00.000,2020-10-21T00:00:00.000,Return to Owner,Dog,Intact Male,1 year,Pit Bull Mix,Black/White,
+A840861,*Henry,2021-10-23T17:38:00.000,2021-10-23T17:38:00.000,2021-07-10T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Blue,Foster
+A844410,A844410,2021-10-23T17:09:00.000,2021-10-23T17:09:00.000,2021-07-01T00:00:00.000,Adoption,Dog,Neutered Male,3 months,Labrador Retriever Mix,Brown/White,
+A844981,,2021-10-23T16:57:00.000,2021-10-23T16:57:00.000,2020-10-23T00:00:00.000,Euthanasia,Other,Unknown,NULL,Raccoon,Black/White,Rabies Risk
+A844973,,2021-10-23T16:56:00.000,2021-10-23T16:56:00.000,2019-10-23T00:00:00.000,Euthanasia,Other,Unknown,NULL,Raccoon,Black/Gray,Rabies Risk
+A844133,*Ella,2021-10-23T16:56:00.000,2021-10-23T16:56:00.000,2021-09-02T00:00:00.000,Transfer,Cat,Intact Female,1 month,Domestic Shorthair,Torbie,Partner
+A843867,*Sprinkles,2021-10-23T16:56:00.000,2021-10-23T16:56:00.000,2019-10-07T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Border Collie/Labrador Retriever,Black/White,
+A844970,275 Grams,2021-10-23T16:35:00.000,2021-10-23T16:35:00.000,2021-10-08T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair,Cream Tabby,Partner
+A844364,A844364,2021-10-23T16:31:00.000,2021-10-23T16:31:00.000,2020-10-15T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Brown Tabby,
+A844957,Chloe,2021-10-23T16:29:00.000,2021-10-23T16:29:00.000,2010-10-23T00:00:00.000,Return to Owner,Dog,Spayed Female,11 years,Maltese/Yorkshire Terrier,White,
+A844706,Mateo,2021-10-23T16:13:00.000,2021-10-23T16:13:00.000,2021-02-19T00:00:00.000,Adoption,Cat,Neutered Male,8 months,Domestic Shorthair,Brown Tabby,
+A844110,*Finn,2021-10-23T15:45:00.000,2021-10-23T15:45:00.000,2019-10-12T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Siberian Husky Mix,Black/White,
+A844384,,2021-10-23T15:41:00.000,2021-10-23T15:41:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby,
+A843522,*Pinto Bean,2021-10-23T15:31:00.000,2021-10-23T15:31:00.000,2019-10-02T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Catahoula Mix,Blue Merle/White,
+A842127,*Cherry,2021-10-23T14:47:00.000,2021-10-23T14:47:00.000,2021-07-27T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie,Foster
+A842125,*Apricot,2021-10-23T14:46:00.000,2021-10-23T14:46:00.000,2021-07-27T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie,Foster
+A844656,*Tilly,2021-10-23T14:40:00.000,2021-10-23T14:40:00.000,2019-10-18T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Siberian Husky,Black/White,
+A702915,Cash,2021-10-23T14:38:00.000,2021-10-23T14:38:00.000,2015-02-25T00:00:00.000,Adoption,Dog,Neutered Male,6 years,German Shepherd Mix,Red/White,
+A842700,A842700,2021-10-23T14:33:00.000,2021-10-23T14:33:00.000,2021-07-08T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Brown Tabby/White,
+A843699,Molly,2021-10-23T14:21:00.000,2021-10-23T14:21:00.000,2020-11-05T00:00:00.000,Transfer,Dog,Intact Female,11 months,Labrador Retriever Mix,Black/Tan,Partner
+A844713,*Selena,2021-10-23T14:20:00.000,2021-10-23T14:20:00.000,2021-08-12T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Black,
+A844668,*Meowdy,2021-10-23T14:04:00.000,2021-10-23T14:04:00.000,2021-07-12T00:00:00.000,Adoption,Cat,Intact Male,3 months,Domestic Medium Hair Mix,Orange Tabby,
+A844669,*Loudy,2021-10-23T14:04:00.000,2021-10-23T14:04:00.000,2021-07-12T00:00:00.000,Adoption,Cat,Intact Female,3 months,Domestic Medium Hair Mix,Calico,
+A844236,Luna,2021-10-23T14:03:00.000,2021-10-23T14:03:00.000,2014-10-13T00:00:00.000,Adoption,Cat,Spayed Female,7 years,Domestic Shorthair Mix,Cream,
+A837154,*Howie,2021-10-23T13:59:00.000,2021-10-23T13:59:00.000,2021-05-03T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair,Black/White,Foster
+A836372,*Merlin,2021-10-23T13:56:00.000,2021-10-23T13:56:00.000,2021-04-09T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair,Orange Tabby,Foster
+A842283,*Smudge,2021-10-23T13:21:00.000,2021-10-23T13:21:00.000,2019-09-13T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Australian Cattle Dog Mix,Tricolor/Red,
+A724558,*Wobbles,2021-10-23T13:17:00.000,2021-10-23T13:17:00.000,2016-02-19T00:00:00.000,Adoption,Dog,Neutered Male,5 years,Pit Bull Mix,White/Red,
+A839859,*Yeti,2021-10-23T12:24:00.000,2021-10-23T12:24:00.000,2011-07-28T00:00:00.000,Adoption,Cat,Neutered Male,10 years,Domestic Longhair,Cream Tabby/White,Foster
+A842351,*Pecan,2021-10-23T12:20:00.000,2021-10-23T12:20:00.000,2021-08-11T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,Foster
+A843144,*Cocoa Puff,2021-10-23T12:17:00.000,2021-10-23T12:17:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair Mix,Brown Tabby,Foster
+A843142,*Apple Jack,2021-10-23T12:14:00.000,2021-10-23T12:14:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair Mix,Orange Tabby,Foster
+A843141,*Cheerio,2021-10-23T12:12:00.000,2021-10-23T12:12:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair Mix,Orange Tabby,Foster
+A833730,Carmelo,2021-10-23T12:10:00.000,2021-10-23T12:10:00.000,2019-05-04T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Pit Bull,Red,Offsite
+A843139,*Lucky Charm,2021-10-23T12:10:00.000,2021-10-23T12:10:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair Mix,Torbie,Foster
+A843143,*Mini Wheat,2021-10-23T12:08:00.000,2021-10-23T12:08:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair Mix,Torbie,Foster
+A844688,A844688,2021-10-23T12:07:00.000,2021-10-23T12:07:00.000,2019-10-16T00:00:00.000,Return to Owner,Dog,Intact Female,2 years,Pit Bull,Blue,
+A843140,*Kashi,2021-10-23T12:06:00.000,2021-10-23T12:06:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair Mix,Blue Tabby,Foster
+A841188,*Lima,2021-10-23T12:04:00.000,2021-10-23T12:04:00.000,2021-07-20T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Orange Tabby,Foster
+A842401,*Ken,2021-10-23T12:01:00.000,2021-10-23T12:01:00.000,2021-08-06T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black,Foster
+A844561,*Ninja,2021-10-23T11:59:00.000,2021-10-23T11:59:00.000,2021-04-17T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair,Black,
+A842915,Sammy,2021-10-23T11:24:00.000,2021-10-23T11:24:00.000,2021-07-01T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Brown Tabby,
+A844747,Jack,2021-10-22T18:51:00.000,2021-10-22T18:51:00.000,2021-06-19T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair,Lynx Point,
+A843712,*Benji,2021-10-22T18:48:00.000,2021-10-22T18:48:00.000,2021-08-24T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair,Blue/White,
+A842923,*Booberry,2021-10-22T18:42:00.000,2021-10-22T18:42:00.000,2021-08-23T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair Mix,Tortie,Foster
+A844307,A844307,2021-10-22T17:45:00.000,2021-10-22T17:45:00.000,2021-04-14T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair,Brown Tabby,
+A844667,A844667,2021-10-22T17:43:00.000,2021-10-22T17:43:00.000,2021-07-12T00:00:00.000,Adoption,Cat,Intact Male,3 months,Domestic Medium Hair Mix,Orange Tabby,
+A844709,Honey,2021-10-22T17:17:00.000,2021-10-22T17:17:00.000,2021-01-19T00:00:00.000,Adoption,Dog,Spayed Female,9 months,Chihuahua Shorthair Mix,Tan,
+A844930,Bob,2021-10-22T16:45:00.000,2021-10-22T16:45:00.000,2015-04-22T00:00:00.000,Return to Owner,Dog,Neutered Male,6 years,Newfoundland Mix,Black/White,
+A844653,A844653,2021-10-22T16:44:00.000,2021-10-22T16:44:00.000,2021-08-04T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Labrador Retriever Mix,Black/White,
+A844509,A844509,2021-10-22T16:27:00.000,2021-10-22T16:27:00.000,2020-10-16T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Domestic Shorthair,Black,
+A826335,Lucius,2021-10-22T16:16:00.000,2021-10-22T16:16:00.000,2020-06-24T00:00:00.000,Return to Owner,Dog,Intact Male,1 year,Smooth Fox Terrier,White/Tan,
+A844601,Diamond,2021-10-22T16:15:00.000,2021-10-22T16:15:00.000,2019-10-18T00:00:00.000,Adoption,Cat,Spayed Female,2 years,Domestic Shorthair,Calico,
+A844911,,2021-10-22T16:11:00.000,2021-10-22T16:11:00.000,2021-09-22T00:00:00.000,Transfer,Cat,Intact Male,4 weeks,Domestic Shorthair,Brown Tabby,Partner
+A843247,*Sarabi,2021-10-22T16:11:00.000,2021-10-22T16:11:00.000,2021-08-18T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Blue/White,
+A844910,,2021-10-22T16:10:00.000,2021-10-22T16:10:00.000,2021-09-22T00:00:00.000,Transfer,Cat,Intact Male,4 weeks,Domestic Shorthair,Brown Tabby,Partner
+A844908,,2021-10-22T16:10:00.000,2021-10-22T16:10:00.000,2021-09-22T00:00:00.000,Transfer,Cat,Intact Male,4 weeks,Domestic Shorthair,Orange Tabby,Partner
+A844909,,2021-10-22T16:10:00.000,2021-10-22T16:10:00.000,2021-09-22T00:00:00.000,Transfer,Cat,Intact Male,4 weeks,Domestic Shorthair,Orange Tabby,Partner
+A844907,,2021-10-22T16:09:00.000,2021-10-22T16:09:00.000,2021-09-22T00:00:00.000,Transfer,Cat,Intact Male,4 weeks,Domestic Shorthair,Orange Tabby/White,Partner
+A844602,Polo,2021-10-22T15:32:00.000,2021-10-22T15:32:00.000,2021-03-22T00:00:00.000,Return to Owner,Cat,Neutered Male,7 months,Domestic Shorthair,Blue/White,
+A844604,Cheeto,2021-10-22T15:32:00.000,2021-10-22T15:32:00.000,2021-03-22T00:00:00.000,Return to Owner,Cat,Neutered Male,7 months,Domestic Shorthair,Cream Tabby,
+A769826,Blondie,2021-10-22T15:31:00.000,2021-10-22T15:31:00.000,2017-06-10T00:00:00.000,Return to Owner,Dog,Spayed Female,4 years,Labrador Retriever Mix,Tan/White,
+A844611,,2021-10-22T15:00:00.000,2021-10-22T15:00:00.000,2021-09-03T00:00:00.000,Transfer,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby/White,Partner
+A717242,Shady,2021-10-22T14:38:00.000,2021-10-22T14:38:00.000,2005-12-04T00:00:00.000,Return to Owner,Dog,Spayed Female,15 years,Chihuahua Longhair Mix,Black,
+A843745,*Minnie Winnie,2021-10-22T14:36:00.000,2021-10-22T14:36:00.000,2020-10-05T00:00:00.000,Transfer,Dog,Spayed Female,1 year,Pit Bull/Catahoula,Brown Merle/White,Partner
+A843534,*Puck,2021-10-22T14:36:00.000,2021-10-22T14:36:00.000,2019-04-02T00:00:00.000,Transfer,Dog,Neutered Male,2 years,Labrador Retriever Mix,Brown,Partner
+A843719,*Charlie,2021-10-22T14:32:00.000,2021-10-22T14:32:00.000,2019-10-05T00:00:00.000,Transfer,Dog,Neutered Male,2 years,Beagle/Pug,Red/White,Partner
+A738412,*Bennigan,2021-10-22T14:31:00.000,2021-10-22T14:31:00.000,2016-08-21T00:00:00.000,Transfer,Dog,Spayed Female,5 years,Border Collie Mix,Black/White,Partner
+A844590,,2021-10-22T14:25:00.000,2021-10-22T14:25:00.000,2013-10-18T00:00:00.000,Transfer,Dog,Neutered Male,8 years,Chihuahua Longhair,Red,Partner
+A844179,*Eddie,2021-10-22T14:08:00.000,2021-10-22T14:08:00.000,2019-04-13T00:00:00.000,Transfer,Dog,Intact Male,2 years,Boxer,Brown/White,Partner
+A844649,A844649,2021-10-22T13:57:00.000,2021-10-22T13:57:00.000,2019-10-18T00:00:00.000,Transfer,Dog,Intact Female,2 years,Cavalier Span Mix,Red/White,Partner
+A843358,*Bobby,2021-10-22T13:37:00.000,2021-10-22T13:37:00.000,2021-08-05T00:00:00.000,Transfer,Cat,Intact Male,2 months,Domestic Shorthair,Black,Partner
+A844719,Sugarbear,2021-10-22T13:36:00.000,2021-10-22T13:36:00.000,2021-02-19T00:00:00.000,Transfer,Cat,Neutered Male,8 months,Domestic Shorthair,Seal Point,Partner
+A844068,Sam,2021-10-22T13:36:00.000,2021-10-22T13:36:00.000,2021-05-27T00:00:00.000,Transfer,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Orange Tabby,Partner
+A842846,Miss Sunshine,2021-10-22T13:35:00.000,2021-10-22T13:35:00.000,2018-09-22T00:00:00.000,Transfer,Cat,Spayed Female,3 years,Domestic Shorthair,Orange Tabby/White,Partner
+A844404,*Huey,2021-10-22T13:34:00.000,2021-10-22T13:34:00.000,2021-08-15T00:00:00.000,Transfer,Cat,Intact Male,2 months,Domestic Shorthair Mix,Orange Tabby,Partner
+A844403,*Louie,2021-10-22T13:34:00.000,2021-10-22T13:34:00.000,2021-08-15T00:00:00.000,Transfer,Cat,Intact Male,2 months,Domestic Shorthair Mix,Orange Tabby,Partner
+A844398,*Dewey,2021-10-22T13:33:00.000,2021-10-22T13:33:00.000,2021-08-15T00:00:00.000,Transfer,Cat,Intact Female,2 months,Domestic Shorthair Mix,Orange Tabby,Partner
+A844098,*Hugo,2021-10-22T13:32:00.000,2021-10-22T13:32:00.000,2019-10-12T00:00:00.000,Transfer,Dog,Intact Male,2 years,Pit Bull,Tan,Partner
+A844550,Black Cherry,2021-10-22T13:32:00.000,2021-10-22T13:32:00.000,2019-10-17T00:00:00.000,Return to Owner,Dog,Intact Female,2 years,Pit Bull Mix,White/Tan,
+A844849,Wiki,2021-10-22T12:56:00.000,2021-10-22T12:56:00.000,2018-10-21T00:00:00.000,Return to Owner,Dog,Neutered Male,3 years,Chihuahua Shorthair,Brown,
+A843501,*Posh,2021-10-22T12:39:00.000,2021-10-22T12:39:00.000,2020-04-02T00:00:00.000,Adoption,Dog,Spayed Female,1 year,Pointer/Siberian Husky,White/Black,
+A844467,*Doodle,2021-10-22T12:10:00.000,2021-10-22T12:10:00.000,2016-10-16T00:00:00.000,Transfer,Dog,Intact Female,5 years,Dachshund/Chihuahua Shorthair,Brown,Out State
+A844406,*Addie,2021-10-22T12:10:00.000,2021-10-22T12:10:00.000,2020-10-15T00:00:00.000,Transfer,Dog,Intact Female,1 year,Cairn Terrier,Black/Red,Out State
+A844533,*Darcy,2021-10-22T12:09:00.000,2021-10-22T12:09:00.000,2021-07-16T00:00:00.000,Transfer,Dog,Intact Female,3 months,Chihuahua Shorthair,Tan,Out State
+A844285,*Hula,2021-10-22T12:09:00.000,2021-10-22T12:09:00.000,2016-10-14T00:00:00.000,Transfer,Dog,Intact Male,5 years,Chihuahua Shorthair,Brown,Out State
+A837930,Robby,2021-10-22T12:08:00.000,2021-10-22T12:08:00.000,2020-10-30T00:00:00.000,Transfer,Dog,Intact Male,11 months,Greyhound Mix,White/Black,Out State
+A836048,*Erza,2021-10-22T12:08:00.000,2021-10-22T12:08:00.000,2017-06-04T00:00:00.000,Transfer,Dog,Spayed Female,4 years,Labrador Retriever Mix,Black/White,Out State
+A843527,*Shoelace,2021-10-22T12:07:00.000,2021-10-22T12:07:00.000,2009-10-02T00:00:00.000,Transfer,Dog,Neutered Male,12 years,Labrador Retriever,Black,Out State
+A836858,*Paulie,2021-10-22T12:07:00.000,2021-10-22T12:07:00.000,2019-06-15T00:00:00.000,Transfer,Dog,Neutered Male,2 years,American Bulldog,Red/White,Out State
+A841345,Zoe,2021-10-22T12:06:00.000,2021-10-22T12:06:00.000,2019-08-26T00:00:00.000,Transfer,Dog,Intact Female,2 years,German Shepherd,Black/Brown,Out State
+A843815,Apollo,2021-10-22T12:06:00.000,2021-10-22T12:06:00.000,2020-10-06T00:00:00.000,Transfer,Dog,Intact Male,1 year,Great Pyrenees Mix,White,Out State
+A844027,Dj,2021-10-22T12:05:00.000,2021-10-22T12:05:00.000,2011-10-11T00:00:00.000,Transfer,Dog,Spayed Female,10 years,Beagle Mix,Tan/White,Out State
+A844026,Tiger,2021-10-22T12:05:00.000,2021-10-22T12:05:00.000,2011-10-11T00:00:00.000,Transfer,Dog,Neutered Male,10 years,Beagle Mix,Brown Brindle/White,Out State
+A844036,*Ash,2021-10-22T12:05:00.000,2021-10-22T12:05:00.000,2021-07-21T00:00:00.000,Transfer,Dog,Intact Male,3 months,Labrador Retriever Mix,Yellow/White,Out State
+A844034,*Cinder,2021-10-22T12:04:00.000,2021-10-22T12:04:00.000,2021-07-21T00:00:00.000,Transfer,Dog,Intact Male,3 months,Labrador Retriever Mix,Yellow/White,Out State
+A844079,*Mcnugget,2021-10-22T12:04:00.000,2021-10-22T12:04:00.000,2019-10-11T00:00:00.000,Transfer,Dog,Intact Male,2 years,Chihuahua Shorthair Mix,Brown/White,Out State
+A843485,*Jeeves,2021-10-22T11:56:00.000,2021-10-22T11:56:00.000,2019-10-01T00:00:00.000,Transfer,Dog,Neutered Male,2 years,Chihuahua Shorthair/Boston Terrier,Brown/White,Out State
+A843819,*Noodles,2021-10-22T11:51:00.000,2021-10-22T11:51:00.000,2014-10-07T00:00:00.000,Transfer,Dog,Intact Male,7 years,Chihuahua Shorthair,Brown,Out State
+A844378,A844378,2021-10-22T11:12:00.000,2021-10-22T11:12:00.000,2021-07-15T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Black,
+A844843,,2021-10-22T11:00:00.000,2021-10-22T11:00:00.000,2012-10-21T00:00:00.000,Transfer,Dog,Intact Male,9 years,Pit Bull,Tan/White,Partner
+A842393,*Shawn,2021-10-21T19:03:00.000,2021-10-21T19:03:00.000,2021-08-20T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby/White,Foster
+A842391,*Topanga,2021-10-21T19:03:00.000,2021-10-21T19:03:00.000,2021-08-20T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Black,Foster
+A842392,*Cory,2021-10-21T19:03:00.000,2021-10-21T19:03:00.000,2021-08-20T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black/White,Foster
+A844726,Shadow,2021-10-21T18:53:00.000,2021-10-21T18:53:00.000,2021-02-19T00:00:00.000,Return to Owner,Dog,Intact Male,8 months,Labrador Retriever,Black,
+A801138,Angel,2021-10-21T18:44:00.000,2021-10-21T18:44:00.000,2017-07-31T00:00:00.000,Return to Owner,Dog,Spayed Female,4 years,American Pit Bull Terrier,Blue/White,
+A841958,*Paris,2021-10-21T18:39:00.000,2021-10-21T18:39:00.000,2021-03-07T00:00:00.000,Adoption,Cat,Spayed Female,7 months,Domestic Shorthair Mix,Brown Tabby,
+A844632,A844632,2021-10-21T18:12:00.000,2021-10-21T18:12:00.000,2021-08-18T00:00:00.000,Died,Cat,Intact Female,2 months,Domestic Shorthair,Brown Tabby/White,In Kennel
+A844411,A844411,2021-10-21T17:40:00.000,2021-10-21T17:40:00.000,2021-01-15T00:00:00.000,Adoption,Dog,Spayed Female,9 months,Australian Kelpie/Beagle,Black/White,
+A842289,*Cheddar,2021-10-21T17:35:00.000,2021-10-21T17:35:00.000,2021-08-07T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby/White,
+A843500,*Sarafina,2021-10-21T17:27:00.000,2021-10-21T17:27:00.000,2021-08-17T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Tortie,
+A754522,Jeely Bean,2021-10-21T17:26:00.000,2021-10-21T17:26:00.000,2013-11-21T00:00:00.000,Transfer,Dog,Neutered Male,7 years,Chihuahua Shorthair Mix,Tan,Partner
+A844060,Lucy,2021-10-21T17:21:00.000,2021-10-21T17:21:00.000,2020-10-11T00:00:00.000,Adoption,Dog,Spayed Female,1 year,German Shepherd,Tan/Black,
+A844835,Precious,2021-10-21T17:15:00.000,2021-10-21T17:15:00.000,2019-10-21T00:00:00.000,Return to Owner,Dog,Intact Female,2 years,Pit Bull,Blue/White,
+A844447,,2021-10-21T17:00:00.000,2021-10-21T17:00:00.000,2021-05-16T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair,White/Brown Tabby,
+A844456,A844456,2021-10-21T16:55:00.000,2021-10-21T16:55:00.000,2021-08-01T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Labrador Retriever Mix,Chocolate,
+A842291,*Feta,2021-10-21T16:54:00.000,2021-10-21T16:54:00.000,2021-08-07T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby/White,
+A844181,*Little Beans,2021-10-21T16:37:00.000,2021-10-21T16:37:00.000,2021-02-13T00:00:00.000,Adoption,Dog,Spayed Female,8 months,Labrador Retriever Mix,White,
+A844820,Mia,2021-10-21T16:13:00.000,2021-10-21T16:13:00.000,2009-10-20T00:00:00.000,Return to Owner,Dog,Neutered Male,12 years,Tibetan Spaniel Mix,Black/Brown,
+A844810,Rocky,2021-10-21T15:47:00.000,2021-10-21T15:47:00.000,2020-10-20T00:00:00.000,Return to Owner,Dog,Intact Male,1 year,Pit Bull Mix,White/Tan,
+A831972,*Kiki,2021-10-21T15:29:00.000,2021-10-21T15:29:00.000,2021-04-03T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair,Orange Tabby,Foster
+A837564,A837564,2021-10-21T14:53:00.000,2021-10-21T14:53:00.000,2021-04-24T00:00:00.000,Adoption,Cat,Spayed Female,5 months,Domestic Shorthair Mix,Calico,Foster
+A844063,*Ozzie,2021-10-21T13:31:00.000,2021-10-21T13:31:00.000,2019-10-11T00:00:00.000,Adoption,Other,Intact Female,2 years,Rabbit Sh,Black,
+A844430,A844430,2021-10-21T13:06:00.000,2021-10-21T13:06:00.000,2021-06-30T00:00:00.000,Adoption,Dog,Neutered Male,3 months,Pit Bull Mix,Tan,
+A844624,A844624,2021-10-21T12:06:00.000,2021-10-21T12:06:00.000,2021-06-11T00:00:00.000,Transfer,Cat,Intact Male,4 months,Domestic Shorthair,Brown Tabby/White,Partner
+A844556,A844556,2021-10-21T12:05:00.000,2021-10-21T12:05:00.000,2019-10-17T00:00:00.000,Transfer,Dog,Intact Female,2 years,Shih Tzu Mix,Black/White,Partner
+A844824,A844824,2021-10-21T11:38:00.000,2021-10-21T11:38:00.000,2021-09-18T00:00:00.000,Transfer,Cat,Intact Female,4 weeks,Domestic Shorthair,Black/Black,Partner
+A844796,,2021-10-21T11:37:00.000,2021-10-21T11:37:00.000,2019-10-20T00:00:00.000,Transfer,Cat,Spayed Female,2 years,Domestic Shorthair,Black/White,Partner
+A844496,A844496,2021-10-21T10:01:00.000,2021-10-21T10:01:00.000,2019-10-16T00:00:00.000,Euthanasia,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby,Rabies Risk
+A844814,,2021-10-21T09:19:00.000,2021-10-21T09:19:00.000,2021-07-20T00:00:00.000,Disposal,Dog,Unknown,3 months,Siberian Husky Mix,Black/White,
+A844662,,2021-10-21T00:00:00.000,2021-10-21T00:00:00.000,2019-10-18T00:00:00.000,Transfer,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby/White,Snr
+A844725,,2021-10-21T00:00:00.000,2021-10-21T00:00:00.000,2019-10-19T00:00:00.000,Transfer,Cat,Intact Female,2 years,Domestic Shorthair,Brown Tabby,Snr
+A844705,,2021-10-21T00:00:00.000,2021-10-21T00:00:00.000,2021-01-19T00:00:00.000,Transfer,Cat,Intact Female,9 months,Siamese,Lynx Point,Snr
+A844191,,2021-10-21T00:00:00.000,2021-10-21T00:00:00.000,2019-10-13T00:00:00.000,Transfer,Cat,Unknown,2 years,Domestic Shorthair,Blue,Snr
+A844711,Tiny,2021-10-20T19:07:00.000,2021-10-20T19:07:00.000,2019-10-16T00:00:00.000,Return to Owner,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Brown/White,
+A844426,A844426,2021-10-20T19:06:00.000,2021-10-20T19:06:00.000,2019-10-15T00:00:00.000,Adoption,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Torbie,
+A843418,Cookie,2021-10-20T19:02:00.000,2021-10-20T19:02:00.000,2019-12-30T00:00:00.000,Adoption,Dog,Spayed Female,1 year,Pit Bull/Labrador Retriever,Brown Brindle/White,
+A844350,*Ella,2021-10-20T18:51:00.000,2021-10-20T18:51:00.000,2021-04-15T00:00:00.000,Adoption,Cat,Spayed Female,6 months,Domestic Shorthair,Brown Tabby,
+A844818,Smokey,2021-10-20T18:40:00.000,2021-10-20T18:40:00.000,2019-10-20T00:00:00.000,Return to Owner,Cat,Intact Male,2 years,Domestic Shorthair,Gray Tabby,
+A844004,*Lestat,2021-10-20T18:39:00.000,2021-10-20T18:39:00.000,2020-05-10T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Siberian Husky,Black/White,
+A844420,Autumn,2021-10-20T18:17:00.000,2021-10-20T18:17:00.000,2020-10-15T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair,Torbie/White,
+A844091,Mia,2021-10-20T18:14:00.000,2021-10-20T18:14:00.000,2021-08-27T00:00:00.000,Adoption,Dog,Spayed Female,1 month,Labrador Retriever Mix,Brown/Black,
+A844021,*Ulysses,2021-10-20T18:13:00.000,2021-10-20T18:13:00.000,2019-10-11T00:00:00.000,Adoption,Dog,Intact Male,2 years,Pit Bull,Blue/White,
+A843114,A843114,2021-10-20T18:02:00.000,2021-10-20T18:02:00.000,2019-09-27T00:00:00.000,Transfer,Cat,Spayed Female,2 years,Domestic Shorthair,Torbie,Partner
+A844415,A844415,2021-10-20T18:01:00.000,2021-10-20T18:01:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Silver Tabby,
+A844416,A844416,2021-10-20T18:01:00.000,2021-10-20T18:01:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black/White,
+A843725,A843725,2021-10-20T17:57:00.000,2021-10-20T17:57:00.000,2019-10-05T00:00:00.000,Transfer,Cat,Intact Female,2 years,Domestic Shorthair,Blue Tabby/White,Partner
+A844128,,2021-10-20T17:46:00.000,2021-10-20T17:46:00.000,2021-09-02T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Longhair,Black,
+A844095,A844095,2021-10-20T17:39:00.000,2021-10-20T17:39:00.000,2021-08-27T00:00:00.000,Adoption,Dog,Spayed Female,1 month,Labrador Retriever Mix,Black/White,
+A844672,Rj,2021-10-20T17:37:00.000,2021-10-20T17:37:00.000,2021-06-17T00:00:00.000,Adoption,Dog,Neutered Male,4 months,Pit Bull Mix,Chocolate/White,
+A844671,Bj,2021-10-20T17:37:00.000,2021-10-20T17:37:00.000,2021-06-17T00:00:00.000,Adoption,Dog,Neutered Male,4 months,Pit Bull Mix,Chocolate/White,
+A844804,,2021-10-20T17:01:00.000,2021-10-20T17:01:00.000,2019-10-20T00:00:00.000,Euthanasia,Other,Unknown,NULL,Bat,Brown,Rabies Risk
+A844214,,2021-10-20T16:59:00.000,2021-10-20T16:59:00.000,2020-10-13T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Domestic Shorthair,Orange Tabby/White,
+A844092,A844092,2021-10-20T16:34:00.000,2021-10-20T16:34:00.000,2021-08-27T00:00:00.000,Adoption,Dog,Neutered Male,1 month,Labrador Retriever Mix,Black,
+A844260,Cookie,2021-10-20T16:28:00.000,2021-10-20T16:28:00.000,2013-10-14T00:00:00.000,Adoption,Dog,Spayed Female,8 years,Chihuahua Shorthair,Tan,
+A844259,Brownie,2021-10-20T16:27:00.000,2021-10-20T16:27:00.000,2012-10-14T00:00:00.000,Adoption,Dog,Neutered Male,9 years,Chihuahua Shorthair,Brown/Tan,
+A844365,Fritz,2021-10-20T16:15:00.000,2021-10-20T16:15:00.000,2020-10-15T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Domestic Shorthair,Blue/White,
+A844166,Cleetus,2021-10-20T16:06:00.000,2021-10-20T16:06:00.000,2021-07-29T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Labrador Retriever/Black Mouth Cur,Brown/Black,
+A844093,A844093,2021-10-20T15:52:00.000,2021-10-20T15:52:00.000,2021-08-27T00:00:00.000,Adoption,Dog,Spayed Female,1 month,Labrador Retriever Mix,Brown/White,
+A723735,Zoey,2021-10-20T15:32:00.000,2021-10-20T15:32:00.000,2015-11-20T00:00:00.000,Return to Owner,Dog,Spayed Female,5 years,Pointer Mix,Black/White,
+A842104,*Rosie,2021-10-20T15:23:00.000,2021-10-20T15:23:00.000,2021-07-29T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,Foster
+A839403,A839403,2021-10-20T15:20:00.000,2021-10-20T15:20:00.000,2021-06-29T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Snowshoe Mix,Lynx Point,Foster
+A842350,*Almond,2021-10-20T15:18:00.000,2021-10-20T15:18:00.000,2021-08-11T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Blue Tabby,Foster
+A842044,*Tamale,2021-10-20T15:16:00.000,2021-10-20T15:16:00.000,2021-07-27T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Black/White,Foster
+A844742,A844742,2021-10-20T15:15:00.000,2021-10-20T15:15:00.000,2021-09-29T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair,Brown Tabby/White,Partner
+A844765,80 G,2021-10-20T15:14:00.000,2021-10-20T15:14:00.000,2021-10-20T00:00:00.000,Transfer,Cat,Intact Female,0 years,Domestic Shorthair,White,Partner
+A842995,*Sombrero,2021-10-20T15:14:00.000,2021-10-20T15:14:00.000,2021-08-08T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Dachshund Mix,Blue Merle/Tan,Foster
+A844756,A844756,2021-10-20T15:14:00.000,2021-10-20T15:14:00.000,2021-10-12T00:00:00.000,Transfer,Cat,Intact Male,1 weeks,Domestic Medium Hair,Black,Partner
+A844764,89 G,2021-10-20T15:13:00.000,2021-10-20T15:13:00.000,2021-10-20T00:00:00.000,Transfer,Cat,Intact Male,0 years,Domestic Shorthair,White,Partner
+A844763,82 G,2021-10-20T15:13:00.000,2021-10-20T15:13:00.000,2021-10-20T00:00:00.000,Transfer,Cat,Intact Female,0 years,Domestic Shorthair,Blue Tabby,Partner
+A844762,96 G,2021-10-20T15:13:00.000,2021-10-20T15:13:00.000,2021-10-20T00:00:00.000,Transfer,Cat,Intact Male,0 years,Domestic Shorthair,Blue Tabby,Partner
+A844779,Max,2021-10-20T14:58:00.000,2021-10-20T14:58:00.000,2009-10-20T00:00:00.000,Return to Owner,Dog,Intact Male,12 years,Miniature Schnauzer/Miniature Poodle,Black,
+A843184,*Bebe,2021-10-20T14:47:00.000,2021-10-20T14:47:00.000,2019-09-27T00:00:00.000,Adoption,Cat,Spayed Female,2 years,Domestic Shorthair,Calico,
+A842368,A842368,2021-10-20T14:46:00.000,2021-10-20T14:46:00.000,2020-09-14T00:00:00.000,Transfer,Cat,Spayed Female,1 year,Domestic Shorthair,Cream Tabby,Partner
+A806884,Oso,2021-10-20T14:42:00.000,2021-10-20T14:42:00.000,2016-10-17T00:00:00.000,Adoption,Dog,Neutered Male,5 years,Chinese Sharpei Mix,Black,
+A772931,Angel,2021-10-20T12:45:00.000,2021-10-20T12:45:00.000,2016-11-25T00:00:00.000,Rto-Adopt,Dog,Spayed Female,4 years,Chihuahua Shorthair,Tan/White,
+A844626,Jules,2021-10-20T11:57:00.000,2021-10-20T11:57:00.000,2003-10-20T00:00:00.000,Return to Owner,Dog,Spayed Female,18 years,Rat Terrier Mix,White/Brown,
+A844190,Kalaso,2021-10-20T11:44:00.000,2021-10-20T11:44:00.000,2014-04-13T00:00:00.000,Adoption,Dog,Neutered Male,7 years,Chihuahua Shorthair Mix,Brown/White,
+A844628,Kyoko,2021-10-20T11:06:00.000,2021-10-20T11:06:00.000,2020-11-18T00:00:00.000,Transfer,Other,Intact Female,11 months,Rat,Brown,Partner
+A844627,Chiaki,2021-10-20T11:05:00.000,2021-10-20T11:05:00.000,2020-11-18T00:00:00.000,Transfer,Other,Intact Female,11 months,Rat,White/Black,Partner
+A844760,,2021-10-20T09:54:00.000,2021-10-20T09:54:00.000,2019-10-20T00:00:00.000,Euthanasia,Other,Unknown,NULL,Bat,Black,Rabies Risk
+A844101,Dot,2021-10-19T19:00:00.000,2021-10-19T19:00:00.000,2019-10-12T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Pit Bull,White/Black,
+A844417,A844417,2021-10-19T18:45:00.000,2021-10-19T18:45:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black Smoke,
+A844429,Maya,2021-10-19T18:38:00.000,2021-10-19T18:38:00.000,2020-10-15T00:00:00.000,Adoption,Dog,Spayed Female,1 year,Blue Lacy Mix,Blue,
+A844094,Krypto,2021-10-19T18:27:00.000,2021-10-19T18:27:00.000,2021-08-27T00:00:00.000,Adoption,Dog,Neutered Male,1 month,Labrador Retriever Mix,Brown/Black,
+A844396,Lola,2021-10-19T18:18:00.000,2021-10-19T18:18:00.000,2020-11-15T00:00:00.000,Adoption,Dog,Spayed Female,11 months,Labrador Retriever Mix,Black/White,
+A844414,Grizzly,2021-10-19T18:04:00.000,2021-10-19T18:04:00.000,2020-08-15T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Black Tabby,
+A843930,*Keith,2021-10-19T17:58:00.000,2021-10-19T17:58:00.000,2019-10-08T00:00:00.000,Adoption,Dog,Neutered Male,2 years,German Shepherd,White,
+A839569,*Echo,2021-10-19T17:58:00.000,2021-10-19T17:58:00.000,2021-05-23T00:00:00.000,Adoption,Dog,Spayed Female,4 months,Labrador Retriever Mix,Black/White,
+A838953,Gypsy,2021-10-19T17:49:00.000,2021-10-19T17:49:00.000,2017-07-14T00:00:00.000,Adoption,Dog,Spayed Female,4 years,German Shepherd Mix,Tan,
+A844362,A844362,2021-10-19T17:41:00.000,2021-10-19T17:41:00.000,2021-07-15T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Medium Hair,Black,
+A840853,A840853,2021-10-19T17:36:00.000,2021-10-19T17:36:00.000,2021-06-08T00:00:00.000,Adoption,Cat,Spayed Female,4 months,Domestic Shorthair Mix,Brown Tabby,
+A844419,A844419,2021-10-19T17:33:00.000,2021-10-19T17:33:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair Mix,White/Black,
+A844418,A844418,2021-10-19T17:33:00.000,2021-10-19T17:33:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,White/Gray Tabby,
+A844090,A844090,2021-10-19T17:17:00.000,2021-10-19T17:17:00.000,2021-08-27T00:00:00.000,Adoption,Dog,Spayed Female,1 month,Labrador Retriever Mix,Tricolor,
+A844616,Bunnito,2021-10-19T17:16:00.000,2021-10-19T17:16:00.000,2021-04-18T00:00:00.000,Adoption,Other,Neutered Male,6 months,Rabbit Sh,White/Black,
+A844366,Miss Kitty,2021-10-19T17:05:00.000,2021-10-19T17:05:00.000,2020-10-15T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair,Torbie,
+A844381,,2021-10-19T16:53:00.000,2021-10-19T16:53:00.000,2021-08-15T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby,
+A843842,*Denali,2021-10-19T16:43:00.000,2021-10-19T16:43:00.000,2019-10-07T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Siberian Husky,Gray/Black,
+A843604,,2021-10-19T16:32:00.000,2021-10-19T16:32:00.000,2021-07-20T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby/White,
+A844308,Joey,2021-10-19T16:32:00.000,2021-10-19T16:32:00.000,2020-05-14T00:00:00.000,Rto-Adopt,Dog,Neutered Male,1 year,Labrador Retriever,White/Tan,
+A838957,Stormy,2021-10-19T16:31:00.000,2021-10-19T16:31:00.000,2020-01-14T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Australian Cattle Dog Mix,White/Tan,
+A837860,Ollie,2021-10-19T16:17:00.000,2021-10-19T16:17:00.000,2020-06-29T00:00:00.000,Adoption,Dog,Neutered Male,1 year,German Shepherd,Black/Brown,
+A836927,Artemis,2021-10-19T16:13:00.000,2021-10-19T16:13:00.000,2019-06-15T00:00:00.000,Adoption,Dog,Spayed Female,2 years,German Shepherd,White,
+A844226,Elvis,2021-10-19T16:13:00.000,2021-10-19T16:13:00.000,2021-07-29T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Catahoula Mix,Brown/White,
+A840857,*Liv,2021-10-19T16:06:00.000,2021-10-19T16:06:00.000,2021-07-23T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Cream Tabby,Foster
+A844066,Oso,2021-10-19T15:47:00.000,2021-10-19T15:47:00.000,2020-04-11T00:00:00.000,Return to Owner,Dog,Intact Male,1 year,German Shepherd,White,Field
+A844714,A844714,2021-10-19T15:15:00.000,2021-10-19T15:15:00.000,2019-10-19T00:00:00.000,Transfer,Other,Intact Male,2 years,Rabbit Sh Mix,Black/White,Partner
+A842017,*Linguine,2021-10-19T14:51:00.000,2021-10-19T14:51:00.000,2021-08-02T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Black,Foster
+A842020,*Ravioli,2021-10-19T14:39:00.000,2021-10-19T14:39:00.000,2021-08-02T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Blue/White,Foster
+A842021,*Orzo,2021-10-19T14:37:00.000,2021-10-19T14:37:00.000,2021-08-02T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black/White,Foster
+A844636,A844636,2021-10-19T13:53:00.000,2021-10-19T13:53:00.000,2021-10-03T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Orange Tabby,Partner
+A844635,A844635,2021-10-19T13:52:00.000,2021-10-19T13:52:00.000,2021-10-03T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Black,Partner
+A842992,*Beret,2021-10-19T13:46:00.000,2021-10-19T13:46:00.000,2021-08-08T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Dachshund Mix,Brown/Tan,Foster
+A842400,*Barbie,2021-10-19T13:44:00.000,2021-10-19T13:44:00.000,2021-08-06T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Black,Foster
+A843758,Cinnamon,2021-10-19T13:39:00.000,2021-10-19T13:39:00.000,2019-10-06T00:00:00.000,Rto-Adopt,Dog,Spayed Female,2 years,Australian Kelpie/German Shepherd,Brown/White,
+A841183,*Chickpea,2021-10-19T13:34:00.000,2021-10-19T13:34:00.000,2021-07-20T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Tortie,Foster
+A842462,*Amethyst,2021-10-19T13:27:00.000,2021-10-19T13:27:00.000,2021-08-05T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby,Foster
+A717880,Cookie,2021-10-19T13:23:00.000,2021-10-19T13:23:00.000,2014-12-16T00:00:00.000,Adoption,Dog,Spayed Female,6 years,Australian Cattle Dog Mix,Tricolor,Foster
+A844247,*Lugosi,2021-10-19T13:17:00.000,2021-10-19T13:17:00.000,2021-09-14T00:00:00.000,Transfer,Cat,Intact Male,5 weeks,Domestic Shorthair,Black,Partner
+A844679,227 G,2021-10-19T13:16:00.000,2021-10-19T13:16:00.000,2021-10-01T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair,Brown Tabby,Partner
+A844680,151 G,2021-10-19T13:16:00.000,2021-10-19T13:16:00.000,2021-10-01T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair,Brown Tabby/White,Partner
+A838101,Mary,2021-10-19T12:44:00.000,2021-10-19T12:44:00.000,2011-07-02T00:00:00.000,Adoption,Dog,Spayed Female,10 years,Australian Kelpie Mix,Red,Foster
+A844646,Negro,2021-10-19T12:18:00.000,2021-10-19T12:18:00.000,2018-10-19T00:00:00.000,Return to Owner,Dog,Intact Male,3 years,Great Dane,Black/White,
+A841346,Loki,2021-10-19T11:45:00.000,2021-10-19T11:45:00.000,2021-08-23T00:00:00.000,Adoption,Dog,Neutered Male,1 month,German Shepherd/Labrador Retriever,Black/Brown,
+A843971,*Otter,2021-10-19T11:20:00.000,2021-10-19T11:20:00.000,2021-02-09T00:00:00.000,Transfer,Dog,Intact Male,8 months,Miniature Schnauzer,Black,Partner
+A842924,*Zsa Zsa,2021-10-19T00:00:00.000,2021-10-19T00:00:00.000,2020-09-23T00:00:00.000,Transfer,Cat,Intact Female,1 year,Domestic Shorthair,Black,Snr
+A844233,A844233,2021-10-19T00:00:00.000,2021-10-19T00:00:00.000,2019-10-13T00:00:00.000,Transfer,Cat,Unknown,2 years,Domestic Shorthair Mix,Blue,Snr
+A844147,,2021-10-18T19:20:00.000,2021-10-18T19:20:00.000,2021-08-21T00:00:00.000,Adoption,Dog,Neutered Male,1 month,Chihuahua Shorthair Mix,Tan,
+A844427,,2021-10-18T18:57:00.000,2021-10-18T18:57:00.000,2021-08-24T00:00:00.000,Transfer,Cat,Intact Male,1 month,Domestic Shorthair,Black,Partner
+A842426,*Archimedes,2021-10-18T18:57:00.000,2021-10-18T18:57:00.000,2019-09-15T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Beagle Mix,Black/Tricolor,
+A841352,*Zivah,2021-10-18T18:45:00.000,2021-10-18T18:45:00.000,2021-08-23T00:00:00.000,Adoption,Dog,Spayed Female,1 month,German Shepherd/Labrador Retriever,Brown/Black,
+A844145,,2021-10-18T18:39:00.000,2021-10-18T18:39:00.000,2019-10-12T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,Tan/White,
+A843692,Jerry,2021-10-18T18:21:00.000,2021-10-18T18:21:00.000,2021-07-21T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby/White,
+A842113,Cudi,2021-10-18T18:16:00.000,2021-10-18T18:16:00.000,2021-08-09T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,
+A843602,Lyra,2021-10-18T18:05:00.000,2021-10-18T18:05:00.000,2021-07-20T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Torbie/White,
+A844551,Myla,2021-10-18T18:02:00.000,2021-10-18T18:02:00.000,2018-10-17T00:00:00.000,Return to Owner,Dog,Intact Female,3 years,Beagle Mix,Black/Brown,
+A838947,*Cattabus,2021-10-18T17:58:00.000,2021-10-18T17:58:00.000,2021-03-14T00:00:00.000,Adoption,Cat,Neutered Male,7 months,Bengal Mix,Brown Tabby,
+A844412,Soju,2021-10-18T17:53:00.000,2021-10-18T17:53:00.000,2021-03-14T00:00:00.000,Adoption,Cat,Neutered Male,7 months,Snowshoe,Seal Point/White,
+A844146,Puma,2021-10-18T17:45:00.000,2021-10-18T17:45:00.000,2020-12-12T00:00:00.000,Adoption,Dog,Neutered Male,10 months,Labrador Retriever/Pit Bull,Tan/White,
+A775843,Puma,2021-10-18T17:43:00.000,2021-10-18T17:43:00.000,2016-07-05T00:00:00.000,Return to Owner,Dog,Neutered Male,5 years,German Shepherd Mix,White/Tan,
+A844553,Lobo,2021-10-18T17:43:00.000,2021-10-18T17:43:00.000,2016-10-17T00:00:00.000,Return to Owner,Dog,Intact Male,5 years,German Shepherd,Black/Brown,
+A843928,Aria,2021-10-18T17:42:00.000,2021-10-18T17:42:00.000,2021-05-08T00:00:00.000,Adoption,Dog,Spayed Female,5 months,Pit Bull,Gray/White,
+A841349,Luna,2021-10-18T17:30:00.000,2021-10-18T17:30:00.000,2021-08-23T00:00:00.000,Adoption,Dog,Spayed Female,1 month,German Shepherd/Labrador Retriever,Brown/Black,
+A841354,*Zuma,2021-10-18T17:30:00.000,2021-10-18T17:30:00.000,2021-08-23T00:00:00.000,Adoption,Dog,Spayed Female,1 month,German Shepherd/Labrador Retriever,Brown/Black,
+A841348,Lola,2021-10-18T17:30:00.000,2021-10-18T17:30:00.000,2021-08-23T00:00:00.000,Adoption,Dog,Spayed Female,1 month,German Shepherd/Labrador Retriever,Brown/Black,
+A818418,Roxy,2021-10-18T17:13:00.000,2021-10-18T17:13:00.000,2015-06-08T00:00:00.000,Return to Owner,Dog,Spayed Female,6 years,German Shepherd Mix,Brown/Black,
+A842602,Athena,2021-10-18T17:05:00.000,2021-10-18T17:05:00.000,2021-02-18T00:00:00.000,Adoption,Dog,Spayed Female,7 months,Belgian Malinois Mix,Brown,
+A841350,*Zephyr,2021-10-18T17:04:00.000,2021-10-18T17:04:00.000,2021-08-23T00:00:00.000,Adoption,Dog,Spayed Female,1 month,German Shepherd/Labrador Retriever,Brown/Black,
+A844399,Gary Oldman,2021-10-18T16:55:00.000,2021-10-18T16:55:00.000,2007-10-15T00:00:00.000,Adoption,Cat,Neutered Male,14 years,Domestic Shorthair,Orange Tabby,
+A844405,Bluebell,2021-10-18T16:55:00.000,2021-10-18T16:55:00.000,2012-10-15T00:00:00.000,Adoption,Cat,Neutered Male,9 years,Domestic Shorthair,Cream Tabby,
+A844336,Bam Bam,2021-10-18T16:49:00.000,2021-10-18T16:49:00.000,2019-10-15T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Shih Tzu Mix,Black/White,
+A843664,Aurora,2021-10-18T16:42:00.000,2021-10-18T16:42:00.000,2021-02-11T00:00:00.000,Adoption,Dog,Spayed Female,8 months,Catahoula,Blue Merle/White,
+A844240,King,2021-10-18T16:41:00.000,2021-10-18T16:41:00.000,2021-02-13T00:00:00.000,Adoption,Dog,Neutered Male,8 months,Anatol Shepherd,Tan/Black,
+A844000,Cali,2021-10-18T16:38:00.000,2021-10-18T16:38:00.000,2021-02-10T00:00:00.000,Rto-Adopt,Dog,Spayed Female,8 months,Pit Bull/Boxer,Tan/White,
+A844051,Poe,2021-10-18T16:27:00.000,2021-10-18T16:27:00.000,2021-04-11T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair,Black,
+A844052,Indy,2021-10-18T16:26:00.000,2021-10-18T16:26:00.000,2021-04-11T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair,Black/White,
+A839229,Autumn,2021-10-18T16:24:00.000,2021-10-18T16:24:00.000,2021-07-17T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair,Tortie,
+A841351,*Zelda,2021-10-18T16:17:00.000,2021-10-18T16:17:00.000,2021-08-23T00:00:00.000,Adoption,Dog,Neutered Male,1 month,German Shepherd/Labrador Retriever,Brown/Black,
+A836307,*Cranberry,2021-10-18T16:14:00.000,2021-10-18T16:14:00.000,2021-04-15T00:00:00.000,Adoption,Cat,Neutered Male,6 months,Domestic Shorthair Mix,Black,
+A670017,Saber,2021-10-18T16:11:00.000,2021-10-18T16:11:00.000,2013-03-31T00:00:00.000,Return to Owner,Dog,Neutered Male,8 years,Pit Bull Mix,Brown Brindle/White,
+A841353,*Zsa Zsa,2021-10-18T16:08:00.000,2021-10-18T16:08:00.000,2021-08-23T00:00:00.000,Adoption,Dog,Spayed Female,1 month,German Shepherd/Labrador Retriever,Brown/Black,
+A844310,Lucky,2021-10-18T15:58:00.000,2021-10-18T15:58:00.000,2007-10-15T00:00:00.000,Rto-Adopt,Cat,Neutered Male,14 years,Domestic Shorthair,Orange Tabby/White,
+A844555,Indie,2021-10-18T15:35:00.000,2021-10-18T15:35:00.000,2018-10-17T00:00:00.000,Return to Owner,Dog,Spayed Female,3 years,Pit Bull Mix,Black,
+A844651,Midnight,2021-10-18T15:33:00.000,2021-10-18T15:33:00.000,2021-08-18T00:00:00.000,Euthanasia,Cat,Unknown,1 month,Domestic Shorthair Mix,Black,Suffering
+A842111,Captain,2021-10-18T15:14:00.000,2021-10-18T15:14:00.000,2020-03-09T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Labrador Retriever,Black,
+A844286,A844286,2021-10-18T13:20:00.000,2021-10-18T13:20:00.000,2019-10-14T00:00:00.000,Transfer,Dog,Intact Female,2 years,Yorkshire Terrier/Border Terrier,Tan,Partner
+A844174,,2021-10-18T13:19:00.000,2021-10-18T13:19:00.000,2021-05-29T00:00:00.000,Transfer,Dog,Intact Female,4 months,Cairn Terrier,White/Black,Partner
+A844304,Scooby,2021-10-18T13:01:00.000,2021-10-18T13:01:00.000,2007-04-14T00:00:00.000,Return to Owner,Dog,Neutered Male,14 years,Chihuahua Shorthair,Brown/Tan,
+A842910,*Jello,2021-10-18T12:08:00.000,2021-10-18T12:08:00.000,2018-09-23T00:00:00.000,Adoption,Dog,Neutered Male,3 years,Great Pyrenees/Labrador Retriever,White,
+A844268,Magic,2021-10-18T11:12:00.000,2021-10-18T11:12:00.000,2020-04-14T00:00:00.000,Transfer,Dog,Intact Female,1 year,Cairn Terrier Mix,Black/White,Partner
+A717165,Quincy,2021-10-18T11:08:00.000,2021-10-18T11:08:00.000,2011-12-03T00:00:00.000,Adoption,Dog,Neutered Male,9 years,Australian Cattle Dog Mix,Red/White,Foster
+A844508,,2021-10-18T10:08:00.000,2021-10-18T10:08:00.000,2019-10-16T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown,Rabies Risk
+A844564,,2021-10-18T10:07:00.000,2021-10-18T10:07:00.000,2021-02-17T00:00:00.000,Euthanasia,Other,Unknown,7 months,Raccoon,Gray/Black,Rabies Risk
+A843888,*Nana,2021-10-18T08:21:00.000,2021-10-18T08:21:00.000,2021-09-01T00:00:00.000,Transfer,Dog,Intact Female,1 month,Australian Shepherd Mix,Tan/White,Partner
+A843887,*Ashley,2021-10-18T08:20:00.000,2021-10-18T08:20:00.000,2021-09-01T00:00:00.000,Transfer,Dog,Intact Female,1 month,Australian Shepherd Mix,Tan/White,Partner
+A844279,,2021-10-17T19:32:00.000,2021-10-17T19:32:00.000,2020-10-14T00:00:00.000,Euthanasia,Other,Unknown,1 year,Raccoon,Black/Gray,Rabies Risk
+A844129,,2021-10-17T18:55:00.000,2021-10-17T18:55:00.000,2021-09-02T00:00:00.000,Adoption,Cat,Intact Female,1 month,Domestic Medium Hair,Tortie,
+A844439,Zilla,2021-10-17T16:33:00.000,2021-10-17T16:33:00.000,2014-01-16T00:00:00.000,Return to Owner,Dog,Intact Female,7 years,Australian Cattle Dog/Collie Smooth,Black/White,
+A844149,*Nimbus,2021-10-17T16:32:00.000,2021-10-17T16:32:00.000,2019-10-12T00:00:00.000,Adoption,Other,Intact Male,2 years,Rabbit Sh,White/Brown,
+A844562,Red,2021-10-17T15:16:00.000,2021-10-17T15:16:00.000,2009-10-17T00:00:00.000,Return to Owner,Dog,Neutered Male,12 years,Labrador Retriever,Red/Brown,
+A843253,Molly,2021-10-17T15:10:00.000,2021-10-17T15:10:00.000,2019-09-28T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Pit Bull,Tan/White,
+A844192,Fluffy,2021-10-17T14:32:00.000,2021-10-17T14:32:00.000,2020-04-13T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Calico,
+A843920,,2021-10-17T13:47:00.000,2021-10-17T13:47:00.000,2021-07-24T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Medium Hair,Black/White,
+A843534,*Puck,2021-10-17T13:25:00.000,2021-10-17T13:25:00.000,2019-04-02T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Labrador Retriever Mix,Brown,
+A844204,,2021-10-17T12:23:00.000,2021-10-17T12:23:00.000,2021-06-28T00:00:00.000,Transfer,Dog,Intact Male,3 months,Cocker Spaniel/Border Collie,Tan,Partner
+A844277,A844277,2021-10-17T12:18:00.000,2021-10-17T12:18:00.000,2019-10-14T00:00:00.000,Return to Owner,Cat,Intact Male,2 years,Domestic Medium Hair,Black,
+A843375,Lucci,2021-10-17T11:48:00.000,2021-10-17T11:48:00.000,2020-12-30T00:00:00.000,Adoption,Dog,Spayed Female,9 months,Plott Hound,Brown Tiger/White,
+A750451,Pancake,2021-10-17T11:29:00.000,2021-10-17T11:29:00.000,2017-04-12T00:00:00.000,Adoption,Cat,Neutered Male,4 years,Domestic Shorthair Mix,Cream Tabby,
+A843287,A843287,2021-10-17T11:22:00.000,2021-10-17T11:22:00.000,2019-09-29T00:00:00.000,Transfer,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Brown Tabby,Snr
+A842473,Bear,2021-10-17T11:13:00.000,2021-10-17T11:13:00.000,2016-10-05T00:00:00.000,Adoption,Dog,Neutered Male,5 years,German Shepherd Mix,Brown/Black,
+A844097,Mila,2021-10-17T11:05:00.000,2021-10-17T11:05:00.000,2020-10-12T00:00:00.000,Euthanasia,Dog,Intact Female,1 year,Pit Bull,Tan,Aggressive
+A844428,,2021-10-17T11:00:00.000,2021-10-17T11:00:00.000,2019-10-15T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown,Rabies Risk
+A844478,,2021-10-17T10:59:00.000,2021-10-17T10:59:00.000,2019-10-16T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown,Rabies Risk
+A843562,,2021-10-17T10:26:00.000,2021-10-17T10:26:00.000,2020-10-03T00:00:00.000,,Cat,Intact Female,NULL,Domestic Shorthair,Black,
+A841281,Dr. King Shultz,2021-10-16T19:14:00.000,2021-10-16T19:14:00.000,2020-10-25T00:00:00.000,Adoption,Dog,Neutered Male,11 months,Pit Bull Mix,Brown/White,
+A844448,Jackson,2021-10-16T18:57:00.000,2021-10-16T18:57:00.000,2019-10-16T00:00:00.000,Return to Owner,Dog,Intact Male,2 years,Flat Coat Retriever Mix,Brown/Black,
+A844276,,2021-10-16T18:21:00.000,2021-10-16T18:21:00.000,2021-09-14T00:00:00.000,Transfer,Cat,Intact Male,4 weeks,Domestic Shorthair,Black/White,Partner
+A844525,A844525,2021-10-16T18:18:00.000,2021-10-16T18:18:00.000,2021-10-09T00:00:00.000,Transfer,Cat,Unknown,1 week,Domestic Shorthair,Black,Partner
+A842418,*Slim Jim,2021-10-16T17:45:00.000,2021-10-16T17:45:00.000,2019-09-15T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Australian Kelpie Mix,Black/Brown Brindle,
+A844485,Emma,2021-10-16T17:41:00.000,2021-10-16T17:41:00.000,2017-10-16T00:00:00.000,Return to Owner,Dog,Intact Female,4 years,Old English Sheepdog Mix,Gray/White,
+A840130,*Beacon,2021-10-16T17:18:00.000,2021-10-16T17:18:00.000,2021-01-02T00:00:00.000,Adoption,Dog,Neutered Male,9 months,Great Pyrenees,White,
+A841034,*Thundermuffin,2021-10-16T16:31:00.000,2021-10-16T16:31:00.000,2015-08-19T00:00:00.000,Adoption,Cat,Neutered Male,6 years,Domestic Medium Hair,Orange Tabby,
+A842702,A842702,2021-10-16T16:16:00.000,2021-10-16T16:16:00.000,2021-07-08T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Brown Tabby/White,
+A843006,*Baby Blue,2021-10-16T16:13:00.000,2021-10-16T16:13:00.000,2021-08-24T00:00:00.000,Transfer,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue,Partner
+A843412,A843412,2021-10-16T16:04:00.000,2021-10-16T16:04:00.000,2021-06-30T00:00:00.000,Transfer,Cat,Intact Male,3 months,Domestic Shorthair,Blue,Partner
+A843914,A843914,2021-10-16T15:34:00.000,2021-10-16T15:34:00.000,2015-10-08T00:00:00.000,Transfer,Cat,Neutered Male,6 years,Domestic Shorthair,Brown Tabby,Snr
+A842701,A842701,2021-10-16T15:26:00.000,2021-10-16T15:26:00.000,2021-07-08T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair,Brown Tabby/White,
+A774838,,2021-10-16T15:15:00.000,2021-10-16T15:15:00.000,2017-06-20T00:00:00.000,Euthanasia,Cat,Neutered Male,4 years,Domestic Shorthair Mix,Blue/White,Suffering
+A844409,A844409,2021-10-16T14:43:00.000,2021-10-16T14:43:00.000,2020-10-15T00:00:00.000,Return to Owner,Dog,Intact Female,1 year,Pug,Fawn/Black,
+A844408,*Franz,2021-10-16T14:42:00.000,2021-10-16T14:42:00.000,2021-01-15T00:00:00.000,Return to Owner,Dog,Intact Male,9 months,Rottweiler,Black/Brown,
+A844407,*Hans,2021-10-16T14:41:00.000,2021-10-16T14:41:00.000,2021-01-15T00:00:00.000,Return to Owner,Dog,Intact Male,9 months,Rottweiler,Black/Brown,
+A844099,Hanna,2021-10-16T13:27:00.000,2021-10-16T13:27:00.000,2014-01-12T00:00:00.000,Adoption,Cat,Spayed Female,7 years,Domestic Shorthair,Blue/White,
+A843804,*Mavis,2021-10-16T13:19:00.000,2021-10-16T13:19:00.000,2021-03-06T00:00:00.000,Adoption,Cat,Spayed Female,7 months,Domestic Medium Hair Mix,Black,
+A843797,Ralphie,2021-10-16T12:47:00.000,2021-10-16T12:47:00.000,2019-10-06T00:00:00.000,Return to Owner,Cat,Neutered Male,2 years,Domestic Shorthair,Orange Tabby,
+A843496,Cheddar,2021-10-16T12:19:00.000,2021-10-16T12:19:00.000,2019-10-01T00:00:00.000,Adoption,Cat,Neutered Male,2 years,Domestic Shorthair,Orange Tabby,
+A841090,Macaroni,2021-10-16T11:55:00.000,2021-10-16T11:55:00.000,2021-07-13T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair,Orange Tabby,
+A759191,Elena,2021-10-16T11:36:00.000,2021-10-16T11:36:00.000,2017-03-28T00:00:00.000,Adoption,Cat,Spayed Female,4 years,Domestic Shorthair Mix,Blue Cream,
+A708411,Bravi,2021-10-16T10:00:00.000,2021-10-16T10:00:00.000,2013-07-27T00:00:00.000,Return to Owner,Dog,Neutered Male,8 years,Carolina Dog Mix,Red/White,
+A841087,*Silk,2021-10-15T18:55:00.000,2021-10-15T18:55:00.000,2021-07-13T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair,Orange Tabby,
+A838956,Rosie,2021-10-15T18:35:00.000,2021-10-15T18:35:00.000,2019-07-14T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Beagle,Tricolor,
+A844395,295 Grams,2021-10-15T18:33:00.000,2021-10-15T18:33:00.000,2021-09-30T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Black,Partner
+A844394,282 Grams,2021-10-15T18:33:00.000,2021-10-15T18:33:00.000,2021-09-24T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Tortie,Partner
+A844393,371 Grams,2021-10-15T18:33:00.000,2021-10-15T18:33:00.000,2021-09-24T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Black,Partner
+A626769,Daisy,2021-10-15T18:22:00.000,2021-10-15T18:22:00.000,2010-11-10T00:00:00.000,Return to Owner,Dog,Spayed Female,10 years,Pit Bull Mix,Tan/White,
+A842177,*Chico,2021-10-15T18:14:00.000,2021-10-15T18:14:00.000,2021-03-27T00:00:00.000,Adoption,Dog,Neutered Male,6 months,Pointer Mix,White/Black,
+A844264,Oso,2021-10-15T17:58:00.000,2021-10-15T17:58:00.000,2021-06-11T00:00:00.000,Return to Owner,Dog,Intact Male,4 months,Pit Bull,White,
+A844266,Travieso,2021-10-15T17:58:00.000,2021-10-15T17:58:00.000,2021-06-11T00:00:00.000,Return to Owner,Dog,Intact Male,4 months,Pit Bull,Black/White,
+A843916,A843916,2021-10-15T17:53:00.000,2021-10-15T17:53:00.000,2021-07-18T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Medium Hair,Calico,
+A844391,Chela,2021-10-15T17:36:00.000,2021-10-15T17:36:00.000,2020-10-15T00:00:00.000,Return to Owner,Dog,Intact Female,1 year,Labrador Retriever/German Shepherd,Brown/White,
+A844377,A844377,2021-10-15T17:19:00.000,2021-10-15T17:19:00.000,2021-07-15T00:00:00.000,Transfer,Cat,Intact Male,3 months,Domestic Shorthair Mix,Black,Partner
+A844078,Mystery,2021-10-15T17:18:00.000,2021-10-15T17:18:00.000,2021-04-11T00:00:00.000,Adoption,Cat,Spayed Female,6 months,Domestic Shorthair,Tortie,
+A843877,Rosie,2021-10-15T16:31:00.000,2021-10-15T16:31:00.000,2021-05-07T00:00:00.000,Adoption,Cat,Spayed Female,5 months,Domestic Shorthair Mix,Calico,
+A843760,Rocky,2021-10-15T16:14:00.000,2021-10-15T16:14:00.000,2020-10-06T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Rottweiler Mix,Black/Brown,
+A844186,Bruno,2021-10-15T16:09:00.000,2021-10-15T16:09:00.000,2019-10-13T00:00:00.000,Rto-Adopt,Dog,Neutered Male,2 years,Pit Bull,White/Black,
+A843610,A843610,2021-10-15T15:31:00.000,2021-10-15T15:31:00.000,2021-06-22T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair,Brown Tabby,
+A841182,*Emily,2021-10-15T15:01:00.000,2021-10-15T15:01:00.000,2021-08-14T00:00:00.000,Adoption,Dog,Spayed Female,2 months,American Staffordshire Terrier Mix,White,
+A844383,A844383,2021-10-15T15:00:00.000,2021-10-15T15:00:00.000,2021-09-18T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Longhair Mix,Blue,Partner
+A844343,181 Grams,2021-10-15T15:00:00.000,2021-10-15T15:00:00.000,2021-09-24T00:00:00.000,Transfer,Cat,Unknown,3 weeks,Domestic Shorthair Mix,Black/White,Partner
+A844346,161 Grams,2021-10-15T15:00:00.000,2021-10-15T15:00:00.000,2021-09-24T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby/White,Partner
+A844348,193 Grams,2021-10-15T15:00:00.000,2021-10-15T15:00:00.000,2021-09-24T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Orange Tabby/White,Partner
+A844345,156 Grams,2021-10-15T15:00:00.000,2021-10-15T15:00:00.000,2021-09-24T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,White/Orange Tabby,Partner
+A844347,176 Grams,2021-10-15T15:00:00.000,2021-10-15T15:00:00.000,2021-09-24T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby/White,Partner
+A844048,*Star Lord,2021-10-15T13:12:00.000,2021-10-15T13:12:00.000,2019-10-11T00:00:00.000,Transfer,Dog,Intact Male,2 years,Boxer,Brown/White,Out State
+A842420,*Phantom,2021-10-15T13:12:00.000,2021-10-15T13:12:00.000,2021-01-15T00:00:00.000,Transfer,Dog,Neutered Male,8 months,Blue Lacy,Blue/White,Out State
+A844028,*Toffee,2021-10-15T13:11:00.000,2021-10-15T13:11:00.000,2019-10-11T00:00:00.000,Transfer,Dog,Intact Female,2 years,Boxer Mix,Brown Brindle/White,Out State
+A842488,*Chisolm,2021-10-15T13:11:00.000,2021-10-15T13:11:00.000,2021-06-16T00:00:00.000,Transfer,Dog,Neutered Male,3 months,Dachshund Mix,Black/White,Out State
+A841908,Thanatos,2021-10-15T12:51:00.000,2021-10-15T12:51:00.000,2021-05-05T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair,Black,
+A836692,Clarabelle,2021-10-15T12:40:00.000,2021-10-15T12:40:00.000,2021-06-07T00:00:00.000,Adoption,Dog,Spayed Female,4 months,Basenji Mix,Black/White,
+A841184,Luna-Moon,2021-10-15T12:21:00.000,2021-10-15T12:21:00.000,2021-08-14T00:00:00.000,Adoption,Dog,Spayed Female,2 months,American Staffordshire Terrier Mix,Blue/White,
+A844081,A844081,2021-10-15T12:16:00.000,2021-10-15T12:16:00.000,2017-10-11T00:00:00.000,Transfer,Dog,Neutered Male,4 years,Yorkshire Terrier Mix,Tan/White,Partner
+A842283,*Smudge,2021-10-15T11:42:00.000,2021-10-15T11:42:00.000,2019-09-13T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Australian Cattle Dog Mix,Tricolor/Red,
+A844042,Autumn,2021-10-15T11:03:00.000,2021-10-15T11:03:00.000,2019-10-11T00:00:00.000,Transfer,Dog,Intact Female,2 years,Shih Tzu,Tan/White,Partner
+A839230,A839230,2021-10-15T10:35:00.000,2021-10-15T10:35:00.000,2021-07-17T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,
+A844253,,2021-10-15T09:14:00.000,2021-10-15T09:14:00.000,2020-10-14T00:00:00.000,Euthanasia,Other,Unknown,1 year,Bat,Brown,Rabies Risk
+A844047,,2021-10-15T06:00:00.000,2021-10-15T06:00:00.000,2019-10-11T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown,Rabies Risk
+A844245,Azul,2021-10-14T19:19:00.000,2021-10-14T19:19:00.000,2018-10-14T00:00:00.000,Return to Owner,Dog,Intact Male,3 years,Pit Bull,Blue/White,
+A842381,Bino,2021-10-14T18:45:00.000,2021-10-14T18:45:00.000,2019-12-28T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Pit Bull Mix,Black/White,
+A843545,*O'Lantern,2021-10-14T18:24:00.000,2021-10-14T18:24:00.000,2020-10-03T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Domestic Shorthair,Cream Tabby,
+A843706,Trixie,2021-10-14T18:20:00.000,2021-10-14T18:20:00.000,2020-10-05T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair,Orange Tabby,
+A842162,Meiko,2021-10-14T18:08:00.000,2021-10-14T18:08:00.000,2015-09-10T00:00:00.000,Adoption,Cat,Spayed Female,6 years,Domestic Shorthair Mix,White/Orange Tabby,
+A843772,A843772,2021-10-14T17:46:00.000,2021-10-14T17:46:00.000,2021-08-12T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie,
+A843474,*Spencer,2021-10-14T17:43:00.000,2021-10-14T17:43:00.000,2019-10-01T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Great Pyrenees,White,
+A843931,Blue,2021-10-14T17:42:00.000,2021-10-14T17:42:00.000,2019-10-08T00:00:00.000,Rto-Adopt,Dog,Neutered Male,2 years,Pit Bull,White,
+A844119,Max,2021-10-14T17:38:00.000,2021-10-14T17:38:00.000,2021-04-27T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair Mix,Brown Tabby/White,
+A843835,Auggie,2021-10-14T17:24:00.000,2021-10-14T17:24:00.000,2020-10-07T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Cairn Terrier,Black/Brown,
+A843949,Layla,2021-10-14T16:59:00.000,2021-10-14T16:59:00.000,2021-05-08T00:00:00.000,Adoption,Dog,Spayed Female,5 months,German Shepherd Mix,Black/Brown,
+A817342,Pup Pup,2021-10-14T16:52:00.000,2021-10-14T16:52:00.000,2019-05-13T00:00:00.000,Transfer,Dog,Neutered Male,2 years,Pit Bull,Red/White,Partner
+A844120,Jax,2021-10-14T16:47:00.000,2021-10-14T16:47:00.000,2021-04-27T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair Mix,White/Blue,
+A843646,A843646,2021-10-14T16:43:00.000,2021-10-14T16:43:00.000,2020-10-04T00:00:00.000,Transfer,Bird,Unknown,1 year,Parakeet,White/Blue,Partner
+A843874,*Sammy,2021-10-14T16:30:00.000,2021-10-14T16:30:00.000,2020-12-07T00:00:00.000,Adoption,Dog,Neutered Male,10 months,Chihuahua Shorthair Mix,Tan,
+A843289,*Basil,2021-10-14T16:09:00.000,2021-10-14T16:09:00.000,2021-05-14T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair Mix,Brown Tabby,
+A843939,Bb,2021-10-14T15:41:00.000,2021-10-14T15:41:00.000,2021-05-08T00:00:00.000,Adoption,Dog,Spayed Female,5 months,Catahoula Mix,Brown Merle,
+A843667,*Captain Underpants,2021-10-14T15:36:00.000,2021-10-14T15:36:00.000,2019-10-05T00:00:00.000,Transfer,Dog,Intact Male,2 years,Boxer,White,Partner
+A842931,Harley,2021-10-14T12:38:00.000,2021-10-14T12:38:00.000,2021-07-16T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Labrador Retriever Mix,Black/White,
+A844248,,2021-10-14T12:11:00.000,2021-10-14T12:11:00.000,2019-10-14T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown,Rabies Risk
+A844108,June,2021-10-14T11:09:00.000,2021-10-14T11:09:00.000,2020-04-12T00:00:00.000,Transfer,Dog,Spayed Female,1 year,Collie Rough,Tricolor,Partner
+A844109,Luna,2021-10-14T11:09:00.000,2021-10-14T11:09:00.000,2020-10-12T00:00:00.000,Transfer,Dog,Spayed Female,1 year,Collie Rough,White,Partner
+A843569,Boots,2021-10-14T08:43:00.000,2021-10-14T08:43:00.000,2021-05-04T00:00:00.000,Transfer,Dog,Neutered Male,5 months,Jack Russell Terrier Mix,White/Black,Partner
+A844065,,2021-10-14T00:00:00.000,2021-10-14T00:00:00.000,2018-10-11T00:00:00.000,Transfer,Cat,Intact Female,3 years,Domestic Shorthair,Blue Tabby,Snr
+A844046,,2021-10-14T00:00:00.000,2021-10-14T00:00:00.000,2014-10-11T00:00:00.000,Transfer,Cat,Intact Female,7 years,Domestic Shorthair Mix,Tortie,Snr
+A843619,Talliwalker,2021-10-13T18:48:00.000,2021-10-13T18:48:00.000,2021-08-04T00:00:00.000,Adoption,Other,Intact Female,2 months,Guinea Pig,Black/Orange,
+A843968,Shadow,2021-10-13T18:33:00.000,2021-10-13T18:33:00.000,2021-04-09T00:00:00.000,Return to Owner,Dog,Intact Male,6 months,Border Collie,Black/White,
+A843873,*Sandy,2021-10-13T18:27:00.000,2021-10-13T18:27:00.000,2021-07-30T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Dachshund Wirehair Mix,Tan,
+A843884,Ollie,2021-10-13T18:24:00.000,2021-10-13T18:24:00.000,2019-10-07T00:00:00.000,Adoption,Cat,Neutered Male,2 years,Domestic Longhair,Brown Tabby/White,
+A843953,Davie,2021-10-13T18:18:00.000,2021-10-13T18:18:00.000,2021-07-24T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby,
+A844239,Jero,2021-10-13T18:16:00.000,2021-10-13T18:16:00.000,2020-12-29T00:00:00.000,Return to Owner,Dog,Intact Male,9 months,Rottweiler,Black/Tan,
+A843792,Queen,2021-10-13T18:13:00.000,2021-10-13T18:13:00.000,2021-06-06T00:00:00.000,Adoption,Dog,Spayed Female,4 months,Pit Bull Mix,Brown Brindle/White,
+A843779,A843779,2021-10-13T17:57:00.000,2021-10-13T17:57:00.000,2021-08-06T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Labrador Retriever,Tricolor,
+A843829,Nico,2021-10-13T17:45:00.000,2021-10-13T17:45:00.000,2021-03-07T00:00:00.000,Adoption,Dog,Neutered Male,7 months,Labrador Retriever Mix,Black/White,
+A843166,Flash,2021-10-13T17:40:00.000,2021-10-13T17:40:00.000,2021-02-28T00:00:00.000,Adoption,Dog,Neutered Male,7 months,Plott Hound Mix,Brown Brindle/White,
+A843778,A843778,2021-10-13T17:32:00.000,2021-10-13T17:32:00.000,2021-08-06T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Labrador Retriever,Tan/Black,
+A841441,Zara,2021-10-13T17:31:00.000,2021-10-13T17:31:00.000,2019-08-27T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Queensland Heeler,Blue,
+A843767,A843767,2021-10-13T17:19:00.000,2021-10-13T17:19:00.000,2021-04-21T00:00:00.000,Adoption,Cat,Spayed Female,5 months,Domestic Shorthair,Tortie,
+A843951,Baby,2021-10-13T17:07:00.000,2021-10-13T17:07:00.000,2021-07-24T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black,
+A843623,Breaux,2021-10-13T17:05:00.000,2021-10-13T17:05:00.000,2017-10-04T00:00:00.000,Return to Owner,Dog,Intact Male,4 years,Pit Bull Mix,Tan/White,
+A842699,A842699,2021-10-13T16:58:00.000,2021-10-13T16:58:00.000,2021-07-08T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Brown Tabby,
+A841333,Bogart,2021-10-13T16:48:00.000,2021-10-13T16:48:00.000,2020-01-26T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Pit Bull,Black/White,
+A843843,A843843,2021-10-13T16:26:00.000,2021-10-13T16:26:00.000,2021-07-07T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Brown Tabby,
+A844096,Zam Zam (Zammy),2021-10-13T16:09:00.000,2021-10-13T16:09:00.000,2021-08-05T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Medium Hair,Gray/White,
+A843919,,2021-10-13T16:01:00.000,2021-10-13T16:01:00.000,2021-08-08T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Medium Hair,Gray Tabby,
+A843776,A843776,2021-10-13T15:54:00.000,2021-10-13T15:54:00.000,2021-08-06T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Labrador Retriever,Black,
+A843668,Cindy Roo,2021-10-13T15:47:00.000,2021-10-13T15:47:00.000,2021-04-20T00:00:00.000,Adoption,Dog,Spayed Female,5 months,Pointer Mix,White/Black,
+A844206,A844206,2021-10-13T15:11:00.000,2021-10-13T15:11:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Black,Partner
+A844205,A844205,2021-10-13T15:11:00.000,2021-10-13T15:11:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Orange Tabby,Partner
+A844219,280 G,2021-10-13T15:10:00.000,2021-10-13T15:10:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Blue Tabby,Partner
+A844220,285 G,2021-10-13T15:10:00.000,2021-10-13T15:10:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Blue,Partner
+A844218,277 G,2021-10-13T15:10:00.000,2021-10-13T15:10:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Blue Tabby,Partner
+A844217,279 G,2021-10-13T15:09:00.000,2021-10-13T15:09:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Blue Tabby,Partner
+A844215,316 G,2021-10-13T15:09:00.000,2021-10-13T15:09:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Blue Tabby,Partner
+A844187,Lily,2021-10-13T14:22:00.000,2021-10-13T14:22:00.000,2017-10-13T00:00:00.000,Transfer,Dog,Intact Female,4 years,Chihuahua Shorthair,Brown/White,Partner
+A843473,A843473,2021-10-13T13:38:00.000,2021-10-13T13:38:00.000,2020-10-01T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Brown Tabby,
+A817246,Eve,2021-10-13T12:37:00.000,2021-10-13T12:37:00.000,2018-05-11T00:00:00.000,Transfer,Dog,Spayed Female,3 years,Plott Hound Mix,Brown Brindle,Partner
+A844163,Sugar,2021-10-13T12:11:00.000,2021-10-13T12:11:00.000,2021-02-13T00:00:00.000,Transfer,Dog,Spayed Female,7 months,Labrador Retriever/Pit Bull,Black,Partner
+A844122,Calico,2021-10-13T11:27:00.000,2021-10-13T11:27:00.000,2007-10-12T00:00:00.000,Return to Owner,Dog,Spayed Female,14 years,Maltese,White,
+A843798,,2021-10-13T11:26:00.000,2021-10-13T11:26:00.000,2021-09-21T00:00:00.000,Euthanasia,Cat,Intact Female,3 weeks,Domestic Shorthair,Lilac Point,Suffering
+A844053,Lucky,2021-10-13T10:53:00.000,2021-10-13T10:53:00.000,2021-02-11T00:00:00.000,Adoption,Dog,Neutered Male,8 months,Chihuahua Shorthair,Tan,
+A844118,,2021-10-13T09:46:00.000,2021-10-13T09:46:00.000,2019-10-12T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Brown,Rabies Risk
+A844165,,2021-10-13T08:43:00.000,2021-10-13T08:43:00.000,2019-10-13T00:00:00.000,Euthanasia,Cat,Intact Male,NULL,Domestic Shorthair,Black/White,Suffering
+A844123,,2021-10-13T08:16:00.000,2021-10-13T08:16:00.000,2021-08-31T00:00:00.000,Euthanasia,Cat,Intact Female,1 month,Domestic Shorthair,Black/White,Suffering
+A843790,*Anise,2021-10-12T19:13:00.000,2021-10-12T19:13:00.000,2021-06-06T00:00:00.000,Adoption,Dog,Spayed Female,4 months,Pit Bull Mix,White/Brown Brindle,
+A843603,,2021-10-12T19:03:00.000,2021-10-12T19:03:00.000,2021-07-20T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby/White,
+A841368,*Casper,2021-10-12T18:44:00.000,2021-10-12T18:44:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black,
+A841361,Needle,2021-10-12T18:44:00.000,2021-10-12T18:44:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie,
+A647352,Maris,2021-10-12T18:26:00.000,2021-10-12T18:26:00.000,2007-02-08T00:00:00.000,Return to Owner,Dog,Spayed Female,14 years,Miniature Pinscher Mix,Red,
+A843713,*Mattie,2021-10-12T18:23:00.000,2021-10-12T18:23:00.000,2018-10-05T00:00:00.000,Adoption,Cat,Neutered Male,3 years,Maine Coon,Brown Tabby/White,
+A842703,A842703,2021-10-12T18:14:00.000,2021-10-12T18:14:00.000,2021-07-08T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair,Blue,
+A843682,Sugar,2021-10-12T18:09:00.000,2021-10-12T18:09:00.000,2019-07-07T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Siberian Husky Mix,White,
+A844061,A844061,2021-10-12T18:00:00.000,2021-10-12T18:00:00.000,2021-09-05T00:00:00.000,Euthanasia,Cat,Intact Female,1 month,Domestic Shorthair Mix,Calico,Suffering
+A843687,A843687,2021-10-12T17:49:00.000,2021-10-12T17:49:00.000,2021-07-05T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Gray Tabby,
+A843655,,2021-10-12T17:45:00.000,2021-10-12T17:45:00.000,2021-06-19T00:00:00.000,Adoption,Dog,Spayed Female,3 months,Pointer Mix,White/Black,
+A843648,Spencer,2021-10-12T17:42:00.000,2021-10-12T17:42:00.000,2021-05-04T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair,Black/White,
+A843238,A843238,2021-10-12T17:34:00.000,2021-10-12T17:34:00.000,2021-07-06T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Orange Tabby/White,
+A844106,A844106,2021-10-12T17:30:00.000,2021-10-12T17:30:00.000,2021-09-27T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Orange Tabby,Partner
+A844107,A844107,2021-10-12T17:30:00.000,2021-10-12T17:30:00.000,2021-09-27T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Torbie,Partner
+A844105,A844105,2021-10-12T17:30:00.000,2021-10-12T17:30:00.000,2021-09-27T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Orange Tabby,Partner
+A843814,Primrose Everdeen,2021-10-12T17:25:00.000,2021-10-12T17:25:00.000,2021-07-22T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby,
+A843794,A843794,2021-10-12T17:23:00.000,2021-10-12T17:23:00.000,2021-07-22T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Border Collie Mix,Black/White,
+A843363,Pepsi,2021-10-12T17:19:00.000,2021-10-12T17:19:00.000,2020-09-29T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Great Pyrenees,White,
+A843764,A843764,2021-10-12T17:13:00.000,2021-10-12T17:13:00.000,2021-04-21T00:00:00.000,Adoption,Cat,Spayed Female,5 months,Domestic Shorthair,Calico,
+A843521,*Teenee,2021-10-12T17:08:00.000,2021-10-12T17:08:00.000,2011-10-02T00:00:00.000,Adoption,Cat,Spayed Female,10 years,Domestic Shorthair,Gray/White,
+A843136,*Patch,2021-10-12T17:07:00.000,2021-10-12T17:07:00.000,2020-03-27T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair,Calico,
+A843654,,2021-10-12T17:01:00.000,2021-10-12T17:01:00.000,2021-06-19T00:00:00.000,Adoption,Dog,Neutered Male,3 months,Pit Bull Mix,Tricolor,
+A844104,A844104,2021-10-12T16:54:00.000,2021-10-12T16:54:00.000,2021-09-27T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Black,Partner
+A844103,A844103,2021-10-12T16:53:00.000,2021-10-12T16:53:00.000,2021-09-27T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Black,Partner
+A844115,A844115,2021-10-12T16:50:00.000,2021-10-12T16:50:00.000,2021-09-27T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Brown Tabby,Partner
+A844112,A844112,2021-10-12T16:49:00.000,2021-10-12T16:49:00.000,2021-09-27T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Blue Tabby/White,Partner
+A844114,A844114,2021-10-12T16:49:00.000,2021-10-12T16:49:00.000,2021-09-27T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Black,Partner
+A844113,A844113,2021-10-12T16:49:00.000,2021-10-12T16:49:00.000,2021-09-27T00:00:00.000,Transfer,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Blue Tabby,Partner
+A843952,Penelope,2021-10-12T16:47:00.000,2021-10-12T16:47:00.000,2021-07-24T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Torbie,
+A838381,Mina,2021-10-12T16:36:00.000,2021-10-12T16:36:00.000,2019-07-07T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Siberian Husky Mix,White,
+A843781,Pumpkin,2021-10-12T16:24:00.000,2021-10-12T16:24:00.000,2021-04-07T00:00:00.000,Adoption,Dog,Spayed Female,6 months,Blue Lacy Mix,Blue/White,
+A843763,A843763,2021-10-12T16:21:00.000,2021-10-12T16:21:00.000,2021-04-21T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair,Blue,
+A843811,Mabel,2021-10-12T16:08:00.000,2021-10-12T16:08:00.000,2021-06-06T00:00:00.000,Adoption,Cat,Spayed Female,4 months,Domestic Medium Hair Mix,Brown Tabby,
+A843796,Milo,2021-10-12T16:06:00.000,2021-10-12T16:06:00.000,2021-08-22T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Medium Hair,Black,
+A840497,*Naomi,2021-10-12T16:01:00.000,2021-10-12T16:01:00.000,2016-08-09T00:00:00.000,Adoption,Dog,Spayed Female,5 years,Chihuahua Shorthair Mix,Black,Foster
+A834724,A834724,2021-10-12T15:59:00.000,2021-10-12T15:59:00.000,2021-03-31T00:00:00.000,Adoption,Cat,Spayed Female,6 months,Domestic Shorthair,Black,Foster
+A843943,Martha,2021-10-12T15:57:00.000,2021-10-12T15:57:00.000,2021-03-08T00:00:00.000,Transfer,Dog,Intact Female,7 months,Beagle/Pit Bull,Chocolate/White,Partner
+A842103,*Lily,2021-10-12T15:46:00.000,2021-10-12T15:46:00.000,2021-07-29T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Brown Tabby,Foster
+A836865,*Hope,2021-10-12T15:43:00.000,2021-10-12T15:43:00.000,2019-06-15T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Pit Bull,Blue/White,Foster
+A840502,*Jerry,2021-10-12T15:40:00.000,2021-10-12T15:40:00.000,2021-07-30T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Chihuahua Shorthair Mix,Black/Tan,Foster
+A834798,*Sir Purr,2021-10-12T15:38:00.000,2021-10-12T15:38:00.000,2021-04-18T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Medium Hair,Black/White,Foster
+A841091,*Corduroy,2021-10-12T15:36:00.000,2021-10-12T15:36:00.000,2021-07-13T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby,Foster
+A841977,*Socks,2021-10-12T15:32:00.000,2021-10-12T15:32:00.000,2021-07-07T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair,Black/White,Foster
+A824994,*Frankie,2021-10-12T15:25:00.000,2021-10-12T15:25:00.000,2018-10-26T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Pit Bull,Black,Foster
+A843343,*Cobalt,2021-10-12T15:02:00.000,2021-10-12T15:02:00.000,2021-05-14T00:00:00.000,Adoption,Dog,Neutered Male,4 months,German Shepherd,Blue/Tan,
+A843059,Bear,2021-10-12T14:27:00.000,2021-10-12T14:27:00.000,2016-09-25T00:00:00.000,Rto-Adopt,Dog,Neutered Male,5 years,Great Pyrenees,White,
+A844032,Lilu,2021-10-12T14:26:00.000,2021-10-12T14:26:00.000,2019-10-11T00:00:00.000,Return to Owner,Dog,Intact Female,2 years,Pit Bull Mix,Brown,
+A843869,Oliver,2021-10-12T13:44:00.000,2021-10-12T13:44:00.000,2021-07-07T00:00:00.000,Adoption,Dog,Neutered Male,3 months,Yorkshire Terrier Mix,Tricolor,
+A842311,*Martha,2021-10-12T13:08:00.000,2021-10-12T13:08:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Longhair,Black,Foster
+A841833,*Lucian,2021-10-12T13:00:00.000,2021-10-12T13:00:00.000,2021-06-18T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Blue Tabby/White,Foster
+A842467,*Ghost,2021-10-12T12:56:00.000,2021-10-12T12:56:00.000,2021-08-09T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black Smoke,Foster
+A841330,,2021-10-12T12:43:00.000,2021-10-12T12:43:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Longhair,Blue/White,Foster
+A842469,*Goblin,2021-10-12T12:41:00.000,2021-10-12T12:41:00.000,2021-08-09T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black,Foster
+A842468,*Spooky,2021-10-12T12:40:00.000,2021-10-12T12:40:00.000,2021-08-09T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black Smoke,Foster
+A843711,Peaches,2021-10-12T11:32:00.000,2021-10-12T11:32:00.000,2019-10-05T00:00:00.000,Adoption,Dog,Spayed Female,2 years,American Pit Bull Terrier,White,
+A840224,Galaxy,2021-10-12T09:38:00.000,2021-10-12T09:38:00.000,2021-02-04T00:00:00.000,Adoption,Cat,Spayed Female,8 months,Domestic Longhair,Blue/White,Foster
+A842019,*Ziti,2021-10-12T08:57:00.000,2021-10-12T08:57:00.000,2021-08-02T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Brown Tabby/White,Foster
+A832851,*Chase,2021-10-12T08:50:00.000,2021-10-12T08:50:00.000,2021-03-07T00:00:00.000,Adoption,Cat,Spayed Female,7 months,Domestic Shorthair,Brown Tabby,Foster
+A832850,*Dickey,2021-10-12T08:50:00.000,2021-10-12T08:50:00.000,2021-03-07T00:00:00.000,Adoption,Cat,Spayed Female,7 months,Domestic Shorthair,Brown Tabby,Foster
+A824752,*Ora,2021-10-12T08:40:00.000,2021-10-12T08:40:00.000,2020-08-26T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair,Brown Tabby,Foster
+A824751,*Belly,2021-10-12T08:40:00.000,2021-10-12T08:40:00.000,2020-08-26T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Domestic Shorthair,Brown Tabby,Foster
+A832522,Lilly,2021-10-12T08:05:00.000,2021-10-12T08:05:00.000,2016-04-14T00:00:00.000,Died,Dog,Spayed Female,5 years,Pit Bull Mix,Blue/White,At Vet
+A843599,Charlie,2021-10-11T19:12:00.000,2021-10-11T19:12:00.000,2021-06-22T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Brown Tabby/White,
+A843803,A843803,2021-10-11T19:04:00.000,2021-10-11T19:04:00.000,2021-05-06T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Medium Hair Mix,Black,
+A841365,Serta,2021-10-11T18:53:00.000,2021-10-11T18:53:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby,
+A843690,A843690,2021-10-11T18:50:00.000,2021-10-11T18:50:00.000,2021-08-05T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Labrador Retriever/Australian Cattle Dog,Tan/White,
+A843870,Ollie,2021-10-11T18:49:00.000,2021-10-11T18:49:00.000,2021-07-07T00:00:00.000,Adoption,Dog,Spayed Female,3 months,Beagle Mix,Tricolor,
+A844037,348 Grams,2021-10-11T18:47:00.000,2021-10-11T18:47:00.000,2021-09-19T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Medium Hair,White/Brown Tabby,Partner
+A844055,665 G- Red Mark,2021-10-11T18:46:00.000,2021-10-11T18:46:00.000,2021-10-01T00:00:00.000,Transfer,Dog,Intact Female,1 weeks,Pit Bull,Brown,Partner
+A844058,486 G-Yellow Mark,2021-10-11T18:46:00.000,2021-10-11T18:46:00.000,2021-10-01T00:00:00.000,Transfer,Dog,Intact Male,1 weeks,Pit Bull,Brown,Partner
+A844057,525 G-Pink Mark,2021-10-11T18:46:00.000,2021-10-11T18:46:00.000,2021-10-01T00:00:00.000,Transfer,Dog,Intact Female,1 weeks,Pit Bull,Black Brindle,Partner
+A844056,522 G-Purple Mark,2021-10-11T18:46:00.000,2021-10-11T18:46:00.000,2021-10-01T00:00:00.000,Transfer,Dog,Intact Female,1 weeks,Pit Bull,Brown,Partner
+A844054,456 G-Blue Mark,2021-10-11T18:45:00.000,2021-10-11T18:45:00.000,2021-10-01T00:00:00.000,Transfer,Dog,Intact Male,1 weeks,Pit Bull,Yellow Brindle,Partner
+A843276,*Poppi,2021-10-11T18:42:00.000,2021-10-11T18:42:00.000,2021-01-29T00:00:00.000,Adoption,Dog,Neutered Male,8 months,American Pit Bull Terrier,Brown/White,
+A842228,Phoenix,2021-10-11T18:42:00.000,2021-10-11T18:42:00.000,2021-06-12T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair,Blue Tabby,
+A843705,Haku,2021-10-11T18:42:00.000,2021-10-11T18:42:00.000,2019-04-05T00:00:00.000,Adoption,Cat,Neutered Male,2 years,Domestic Shorthair,Gray Tabby,
+A843716,,2021-10-11T18:05:00.000,2021-10-11T18:05:00.000,2021-08-10T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Siamese,Lynx Point,
+A843605,A843605,2021-10-11T17:59:00.000,2021-10-11T17:59:00.000,2020-06-04T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Orange Tabby,
+A843460,*Daisy,2021-10-11T17:57:00.000,2021-10-11T17:57:00.000,2019-10-01T00:00:00.000,Adoption,Cat,Spayed Female,2 years,Domestic Shorthair,Orange Tabby,
+A843689,Aubrey,2021-10-11T17:56:00.000,2021-10-11T17:56:00.000,2015-10-11T00:00:00.000,Rto-Adopt,Dog,Spayed Female,6 years,Pit Bull,Tan/White,
+A843717,,2021-10-11T17:53:00.000,2021-10-11T17:53:00.000,2021-07-05T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Brown Tabby,
+A841187,*Latte,2021-10-11T17:51:00.000,2021-10-11T17:51:00.000,2021-08-03T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby,
+A843652,*Indigo,2021-10-11T17:51:00.000,2021-10-11T17:51:00.000,2017-10-05T00:00:00.000,Adoption,Dog,Neutered Male,4 years,Pit Bull Mix,Blue/White,
+A843536,843536,2021-10-11T17:46:00.000,2021-10-11T17:46:00.000,2020-10-02T00:00:00.000,Transfer,Cat,Intact Male,1 year,Domestic Shorthair,Brown Tabby,Partner
+A842551,Kit Kat,2021-10-11T17:45:00.000,2021-10-11T17:45:00.000,2019-10-04T00:00:00.000,Transfer,Cat,Spayed Female,2 years,Domestic Shorthair,Brown Tabby/White,Partner
+A841190,*Coffee,2021-10-11T17:45:00.000,2021-10-11T17:45:00.000,2021-08-03T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Tortie,
+A841953,*Sheldon,2021-10-11T17:44:00.000,2021-10-11T17:44:00.000,2021-08-07T00:00:00.000,Transfer,Cat,Intact Male,2 months,Domestic Shorthair,Blue Tabby/White,Partner
+A841951,*Bernadette,2021-10-11T17:43:00.000,2021-10-11T17:43:00.000,2021-08-07T00:00:00.000,Transfer,Cat,Intact Female,2 months,Domestic Shorthair,Torbie/White,Partner
+A841950,*Leonard,2021-10-11T17:41:00.000,2021-10-11T17:41:00.000,2021-08-07T00:00:00.000,Transfer,Cat,Intact Male,2 months,Domestic Shorthair,Black/White,Partner
+A843724,A843724,2021-10-11T17:38:00.000,2021-10-11T17:38:00.000,2020-10-05T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Bengal,Brown Tabby,
+A843707,Vee,2021-10-11T17:25:00.000,2021-10-11T17:25:00.000,2021-07-05T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Brown Tabby/White,
+A842753,*Charlie,2021-10-11T17:12:00.000,2021-10-11T17:12:00.000,2021-08-12T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair,Brown Tabby/White,
+A843951,Baby,2021-10-11T17:05:00.000,2021-10-11T17:05:00.000,2021-07-24T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black,
+A843389,Sushi,2021-10-11T16:52:00.000,2021-10-11T16:52:00.000,2021-04-30T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair Mix,Brown Tabby/White,
+A841366,*Purple,2021-10-11T16:49:00.000,2021-10-11T16:49:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black,
+A842172,Sunderlin,2021-10-11T16:47:00.000,2021-10-11T16:47:00.000,2016-09-10T00:00:00.000,Adoption,Cat,Neutered Male,5 years,Domestic Shorthair Mix,Black/White,
+A843452,Oso,2021-10-11T16:34:00.000,2021-10-11T16:34:00.000,2019-10-01T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Great Pyrenees,White,
+A841367,Lucid,2021-10-11T16:32:00.000,2021-10-11T16:32:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black,
+A843440,Gangsta,2021-10-11T16:25:00.000,2021-10-11T16:25:00.000,2021-05-15T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Orange Tabby/White,
+A843596,Bentley,2021-10-11T16:15:00.000,2021-10-11T16:15:00.000,2018-10-04T00:00:00.000,Adoption,Dog,Neutered Male,3 years,Chihuahua Shorthair,Tan/White,
+A842271,Buster,2021-10-11T16:14:00.000,2021-10-11T16:14:00.000,2012-03-13T00:00:00.000,Return to Owner,Dog,Neutered Male,9 years,German Shepherd Mix,Tan,
+A843954,Marie,2021-10-11T16:01:00.000,2021-10-11T16:01:00.000,2021-07-24T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Siamese,Chocolate Point,
+A843495,Lulu,2021-10-11T15:53:00.000,2021-10-11T15:53:00.000,2021-03-01T00:00:00.000,Adoption,Dog,Spayed Female,7 months,Boxer Mix,Brown/White,
+A844041,Rocky,2021-10-11T15:50:00.000,2021-10-11T15:50:00.000,2019-10-11T00:00:00.000,Return to Owner,Dog,Neutered Male,2 years,Rottweiler,Black/Brown,
+A838955,*George,2021-10-11T15:26:00.000,2021-10-11T15:26:00.000,2021-01-14T00:00:00.000,Adoption,Dog,Intact Male,8 months,Standard Poodle,Brown,
+A843147,*Stubz,2021-10-11T15:23:00.000,2021-10-11T15:23:00.000,2019-09-27T00:00:00.000,Transfer,Dog,Intact Male,2 years,Pit Bull,Black/White,Partner
+A844001,Toby,2021-10-11T14:36:00.000,2021-10-11T14:36:00.000,2020-11-10T00:00:00.000,Return to Owner,Dog,Intact Male,11 months,Labrador Retriever Mix,Tan,
+A843976,*Twinkle,2021-10-11T14:15:00.000,2021-10-11T14:15:00.000,2021-06-09T00:00:00.000,Transfer,Dog,Intact Female,4 months,Cocker Spaniel/Border Collie,White,Partner
+A844049,A844049,2021-10-11T14:01:00.000,2021-10-11T14:01:00.000,2021-08-11T00:00:00.000,Euthanasia,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black,Suffering
+A843437,Evan,2021-10-11T13:25:00.000,2021-10-11T13:25:00.000,2021-07-21T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Labrador Retriever Mix,Black/Brown Brindle,
+A843435,Biscuit,2021-10-11T13:24:00.000,2021-10-11T13:24:00.000,2021-07-21T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Labrador Retriever Mix,Black,
+A842846,Miss Sunshine,2021-10-11T12:15:00.000,2021-10-11T12:15:00.000,2018-09-22T00:00:00.000,Adoption,Cat,Spayed Female,3 years,Domestic Shorthair,Orange Tabby/White,
+A839394,Navi,2021-10-11T11:54:00.000,2021-10-11T11:54:00.000,2019-07-21T00:00:00.000,Adoption,Cat,Spayed Female,2 years,Siamese,Seal Point,
+A843871,*Ember,2021-10-11T11:37:00.000,2021-10-11T11:37:00.000,2021-04-07T00:00:00.000,Transfer,Dog,Intact Female,6 months,Chihuahua Shorthair Mix,Brown/White,Partner
+A843865,Milo,2021-10-11T11:37:00.000,2021-10-11T11:37:00.000,2020-02-07T00:00:00.000,Transfer,Dog,Intact Male,1 year,Chihuahua Shorthair/Papillon,White,Partner
+A808881,Palermo,2021-10-11T11:27:00.000,2021-10-11T11:27:00.000,2019-08-31T00:00:00.000,Return to Owner,Cat,Neutered Male,2 years,Domestic Shorthair,Brown Tabby,
+A843912,,2021-10-11T11:20:00.000,2021-10-11T11:20:00.000,2019-10-08T00:00:00.000,Disposal,Other,Unknown,2 years,Bat,Brown,
+A843566,*Beanie,2021-10-11T10:52:00.000,2021-10-11T10:52:00.000,2021-01-03T00:00:00.000,Adoption,Dog,Spayed Female,9 months,Australian Cattle Dog Mix,Brown/White,
+A843890,,2021-10-11T00:00:00.000,2021-10-11T00:00:00.000,2020-10-07T00:00:00.000,Transfer,Cat,Unknown,1 year,Domestic Shorthair,Blue/White,Snr
+A843997,A843997,2021-10-10T23:33:00.000,2021-10-10T23:33:00.000,2013-10-10T00:00:00.000,Return to Owner,Dog,Intact Female,8 years,English Setter,White/Brown,Customer S
+A732703,Kade,2021-10-10T18:51:00.000,2021-10-10T18:51:00.000,2013-08-02T00:00:00.000,Return to Owner,Dog,Neutered Male,8 years,Great Dane/Boxer,Tan/White,
+A843996,321 Grams,2021-10-10T18:02:00.000,2021-10-10T18:02:00.000,2021-09-19T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair,Orange,Partner
+A841047,Toulouse,2021-10-10T17:18:00.000,2021-10-10T17:18:00.000,2021-07-06T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Orange Tabby/White,
+A841854,*Phish,2021-10-10T16:47:00.000,2021-10-10T16:47:00.000,2020-09-04T00:00:00.000,Adoption,Dog,Neutered Male,1 year,American Bulldog,White/Chocolate,
+A843446,*Mercury,2021-10-10T15:44:00.000,2021-10-10T15:44:00.000,2020-09-30T00:00:00.000,Transfer,Dog,Intact Male,1 year,Border Collie Mix,Black/White,Partner
+A842986,*Noosa,2021-10-10T15:15:00.000,2021-10-10T15:15:00.000,2021-08-09T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black,
+A843182,A843182,2021-10-10T15:09:00.000,2021-10-10T15:09:00.000,2021-06-27T00:00:00.000,Adoption,Cat,Spayed Female,3 months,Domestic Shorthair,Brown Tabby,
+A842958,Salem,2021-10-10T14:53:00.000,2021-10-10T14:53:00.000,2021-01-23T00:00:00.000,Adoption,Cat,Spayed Female,8 months,Domestic Shorthair Mix,Black,
+A739560,Beau,2021-10-10T14:45:00.000,2021-10-10T14:45:00.000,2015-12-04T00:00:00.000,Return to Owner,Dog,Neutered Male,5 years,Pointer Mix,Brown Brindle/White,
+A843989,Ares,2021-10-10T14:44:00.000,2021-10-10T14:44:00.000,2012-10-10T00:00:00.000,Return to Owner,Dog,Neutered Male,9 years,Australian Shepherd,Black/Brown,
+A821758,*Soup,2021-10-10T14:26:00.000,2021-10-10T14:26:00.000,2017-12-18T00:00:00.000,Adoption,Dog,Neutered Male,3 years,Labrador Retriever Mix,Tan/White,
+A803374,Sasha,2021-10-10T14:07:00.000,2021-10-10T14:07:00.000,2014-08-31T00:00:00.000,Adoption,Dog,Spayed Female,7 years,Staffordshire,White/Gray,
+A842974,*Jerry,2021-10-10T13:55:00.000,2021-10-10T13:55:00.000,2020-12-24T00:00:00.000,Adoption,Dog,Neutered Male,9 months,Doberman Pinsch Mix,Chocolate/Tan,
+A843137,*Ramona,2021-10-10T13:24:00.000,2021-10-10T13:24:00.000,2019-09-27T00:00:00.000,Adoption,Other,Intact Female,2 years,Rabbit Sh,White/Brown,
+A839883,Freddy,2021-10-10T13:14:00.000,2021-10-10T13:14:00.000,2021-07-07T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair Mix,White/Orange Tabby,
+A843818,*Werewolf,2021-10-10T13:03:00.000,2021-10-10T13:03:00.000,2021-02-06T00:00:00.000,Adoption,Other,Intact Male,8 months,Guinea Pig,Black,
+A843439,Screw,2021-10-10T11:55:00.000,2021-10-10T11:55:00.000,2021-07-21T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Labrador Retriever,Brown Brindle,
+A843964,,2021-10-10T09:49:00.000,2021-10-10T09:49:00.000,2019-10-09T00:00:00.000,Euthanasia,Other,Unknown,2 years,Raccoon,Gray,Suffering
+A842014,Coco,2021-10-10T00:00:00.000,2021-10-10T00:00:00.000,2019-09-08T00:00:00.000,Transfer,Other,Intact Male,2 years,Rabbit Sh,Brown,Partner
+A843463,*Zephyr,2021-10-09T20:44:00.000,2021-10-09T20:44:00.000,2021-08-13T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair,Orange Tabby,
+A843681,Magic,2021-10-09T18:51:00.000,2021-10-09T18:51:00.000,2017-10-05T00:00:00.000,Adoption,Dog,Neutered Male,4 years,Siberian Husky,White/Brown,
+A842785,Reef,2021-10-09T18:43:00.000,2021-10-09T18:43:00.000,2017-06-21T00:00:00.000,Adoption,Dog,Neutered Male,4 years,Dalmatian Mix,White/Black,
+A822114,Roman,2021-10-09T18:27:00.000,2021-10-09T18:27:00.000,2015-08-26T00:00:00.000,Adoption,Dog,Neutered Male,6 years,Pit Bull,Blue/White,
+A843861,Princess,2021-10-09T17:47:00.000,2021-10-09T17:47:00.000,2017-10-07T00:00:00.000,Adoption,Dog,Spayed Female,4 years,Chihuahua Shorthair/Pug,Black/Tan,
+A842888,*Shadow,2021-10-09T17:29:00.000,2021-10-09T17:29:00.000,2021-08-07T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Blue Tabby,
+A843723,,2021-10-09T16:08:00.000,2021-10-09T16:08:00.000,2019-10-05T00:00:00.000,Euthanasia,Other,Unknown,2 years,Raccoon,Brown,Suffering
+A840117,*Ozzy Pawsborne,2021-10-09T15:54:00.000,2021-10-09T15:54:00.000,2019-08-02T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Pointer Mix,Black/White,
+A843305,Bobby,2021-10-09T15:42:00.000,2021-10-09T15:42:00.000,2020-03-29T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Australian Cattle Dog Mix,Blue Tick/Tan,
+A843921,Chichi,2021-10-09T15:10:00.000,2021-10-09T15:10:00.000,2016-10-09T00:00:00.000,Return to Owner,Dog,Spayed Female,5 years,Chihuahua Shorthair,Tan,
+A842938,Marcy,2021-10-09T15:05:00.000,2021-10-09T15:05:00.000,2005-09-23T00:00:00.000,Adoption,Dog,Spayed Female,16 years,Chihuahua Shorthair,Brown,
+A843810,Leo,2021-10-09T14:46:00.000,2021-10-09T14:46:00.000,2019-10-06T00:00:00.000,Adoption,Cat,Neutered Male,2 years,Domestic Shorthair,White/Brown Tabby,
+A843784,Mango,2021-10-09T14:46:00.000,2021-10-09T14:46:00.000,2021-06-06T00:00:00.000,Adoption,Cat,Spayed Female,4 months,Domestic Shorthair,Torbie,
+A843957,"Dutchess ""Nana"" Starr",2021-10-09T14:07:00.000,2021-10-09T14:07:00.000,2016-10-09T00:00:00.000,Return to Owner,Dog,Intact Female,5 years,Pit Bull,Tan,
+A843163,*Asuka,2021-10-09T13:58:00.000,2021-10-09T13:58:00.000,2018-09-27T00:00:00.000,Adoption,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Blue Tabby/White,
+A843510,Bonita,2021-10-09T13:52:00.000,2021-10-09T13:52:00.000,2019-10-02T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Great Pyrenees,White,
+A843785,Luna,2021-10-09T13:25:00.000,2021-10-09T13:25:00.000,2021-06-06T00:00:00.000,Adoption,Cat,Spayed Female,4 months,Domestic Shorthair,Torbie,
+A842940,Honey,2021-10-09T13:21:00.000,2021-10-09T13:21:00.000,2021-06-08T00:00:00.000,Adoption,Dog,Spayed Female,4 months,Australian Cattle Dog Mix,Tan/White,
+A843467,Oreo,2021-10-09T13:02:00.000,2021-10-09T13:02:00.000,2020-10-01T00:00:00.000,Adoption,Dog,Spayed Female,1 year,Siberian Husky Mix,Black/White,
+A843436,Scooby,2021-10-09T12:07:00.000,2021-10-09T12:07:00.000,2021-07-21T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Labrador Retriever,Brown Brindle/White,
+A837941,A837941,2021-10-09T11:44:00.000,2021-10-09T11:44:00.000,2021-04-14T00:00:00.000,Adoption,Cat,Spayed Female,5 months,Domestic Shorthair,Black/White,Foster
+A842313,*Skits,2021-10-09T11:41:00.000,2021-10-09T11:41:00.000,2021-07-31T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Longhair,Blue,Foster
+A841529,*Bear,2021-10-09T11:38:00.000,2021-10-09T11:38:00.000,2021-07-23T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Black,Foster
+A841328,,2021-10-09T11:32:00.000,2021-10-09T11:32:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Longhair,Blue/White,Foster
+A841327,,2021-10-09T11:28:00.000,2021-10-09T11:28:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Longhair,Blue/White,Foster
+A843684,,2021-10-09T11:14:00.000,2021-10-09T11:14:00.000,2021-08-21T00:00:00.000,Transfer,Dog,Intact Male,1 month,Great Pyrenees,White,Partner
+A842363,*Brioche,2021-10-09T11:00:00.000,2021-10-09T11:00:00.000,2021-08-07T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Medium Hair,Black,Foster
+A842364,*Focaccia,2021-10-09T10:46:00.000,2021-10-09T10:46:00.000,2021-08-07T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Medium Hair,Black,Foster
+A842996,*Trilby,2021-10-09T10:40:00.000,2021-10-09T10:40:00.000,2021-08-08T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Dachshund Mix,Brown Merle,Foster
+A841185,*Butter Bean,2021-10-09T10:30:00.000,2021-10-09T10:30:00.000,2021-07-20T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Orange Tabby,Foster
+A842993,*Fedora,2021-10-09T10:28:00.000,2021-10-09T10:28:00.000,2021-08-08T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Dachshund Mix,Tan,Foster
+A842994,*Fez,2021-10-09T10:14:00.000,2021-10-09T10:14:00.000,2021-08-08T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Dachshund Mix,Tan/White,Foster
+A842365,Miss Bink,2021-10-09T10:09:00.000,2021-10-09T10:09:00.000,2021-08-07T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Medium Hair,Black/White,Foster
+A835194,*Jango,2021-10-09T10:07:00.000,2021-10-09T10:07:00.000,2009-05-26T00:00:00.000,Adoption,Dog,Neutered Male,12 years,Australian Shepherd,Chocolate/White,Foster
+A841325,*Albert,2021-10-09T08:09:00.000,2021-10-09T08:09:00.000,2021-07-20T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair,Cream Tabby/White,Foster
+A841434,*Victoria,2021-10-09T08:09:00.000,2021-10-09T08:09:00.000,2021-07-12T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Tortie,Foster
+A836279,*Pierre,2021-10-09T07:46:00.000,2021-10-09T07:46:00.000,2015-06-08T00:00:00.000,Adoption,Cat,Neutered Male,6 years,Domestic Shorthair,White/Gray,Foster
+A842283,*Smudge,2021-10-08T19:07:00.000,2021-10-08T19:07:00.000,2019-09-13T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Australian Cattle Dog Mix,Tricolor/Red,
+A833569,Fendi,2021-10-08T19:05:00.000,2021-10-08T19:05:00.000,2019-05-03T00:00:00.000,Return to Owner,Dog,Spayed Female,2 years,American Pit Bull Terrier,White,
+A843152,*Ro,2021-10-08T18:18:00.000,2021-10-08T18:18:00.000,2020-09-27T00:00:00.000,Adoption,Other,Intact Male,1 year,Guinea Pig,White/Brown,
+A842182,Ruby,2021-10-08T17:47:00.000,2021-10-08T17:47:00.000,2021-06-11T00:00:00.000,Adoption,Dog,Spayed Female,3 months,German Shepherd Mix,Black/Brown,
+A843497,*Jazz,2021-10-08T17:43:00.000,2021-10-08T17:43:00.000,2020-10-01T00:00:00.000,Adoption,Cat,Spayed Female,1 year,Domestic Shorthair,Blue,
+A843493,Magic,2021-10-08T17:41:00.000,2021-10-08T17:41:00.000,2018-04-01T00:00:00.000,Adoption,Dog,Neutered Male,3 years,Labrador Retriever,Black/White,
+A843860,China,2021-10-08T17:15:00.000,2021-10-08T17:15:00.000,2020-04-07T00:00:00.000,Adoption,Dog,Spayed Female,1 year,Miniature Schnauzer Mix,Gray/Tan,
+A843103,,2021-10-08T17:05:00.000,2021-10-08T17:05:00.000,2020-03-27T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Chihuahua Shorthair,Tan/Black,
+A843461,*Delicata,2021-10-08T16:56:00.000,2021-10-08T16:56:00.000,2021-08-13T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair,Orange Tabby,
+A842534,Max,2021-10-08T16:49:00.000,2021-10-08T16:49:00.000,2021-08-05T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Dachshund,Black,
+A843946,126 Grams,2021-10-08T16:47:00.000,2021-10-08T16:47:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Female,1 weeks,Domestic Shorthair,Torbie,Partner
+A843945,117 Grams,2021-10-08T16:47:00.000,2021-10-08T16:47:00.000,2021-09-28T00:00:00.000,Transfer,Cat,Intact Female,1 weeks,Domestic Shorthair,Black/White,Partner
+A843629,,2021-10-08T16:41:00.000,2021-10-08T16:41:00.000,2017-10-04T00:00:00.000,Transfer,Dog,Intact Male,4 years,Papillon Mix,Black/White,Partner
+A843304,Baby Girl,2021-10-08T16:33:00.000,2021-10-08T16:33:00.000,2019-09-29T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Labrador Retriever,Black/White,
+A843635,Kenichi,2021-10-08T16:22:00.000,2021-10-08T16:22:00.000,2001-10-08T00:00:00.000,Return to Owner,Cat,Neutered Male,20 years,Domestic Longhair,White,
+A841363,*Avocado,2021-10-08T16:00:00.000,2021-10-08T16:00:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby/White,
+A843609,Enzo,2021-10-08T15:37:00.000,2021-10-08T15:37:00.000,2021-06-27T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Medium Hair,Brown Tabby,
+A827860,*Wallace,2021-10-08T15:28:00.000,2021-10-08T15:28:00.000,2019-01-02T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Siberian Husky Mix,Cream/Black,
+A843498,Pricilla,2021-10-08T15:12:00.000,2021-10-08T15:12:00.000,2018-10-01T00:00:00.000,Return to Owner,Cat,Intact Female,3 years,Domestic Medium Hair Mix,Brown Tabby/Black,
+A836113,Atlas,2021-10-08T14:47:00.000,2021-10-08T14:47:00.000,2020-08-06T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Pit Bull Mix,Brown Brindle/White,
+A843926,156 Grams,2021-10-08T14:12:00.000,2021-10-08T14:12:00.000,2021-09-20T00:00:00.000,Transfer,Cat,Intact Female,2 weeks,Domestic Medium Hair,Brown Tabby,Partner
+A843927,,2021-10-08T14:07:00.000,2021-10-08T14:07:00.000,2019-10-08T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Black,Rabies Risk
+A843862,Peluchin,2021-10-08T13:39:00.000,2021-10-08T13:39:00.000,2018-10-07T00:00:00.000,Transfer,Dog,Intact Male,3 years,Papillon Mix,White/Tricolor,Partner
+A843318,*Lulabelle,2021-10-08T13:27:00.000,2021-10-08T13:27:00.000,2021-07-29T00:00:00.000,Transfer,Dog,Intact Female,2 months,Chihuahua Shorthair Mix,Black/White,Out State
+A617671,Juliet,2021-10-08T13:27:00.000,2021-10-08T13:27:00.000,2010-12-23T00:00:00.000,Transfer,Dog,Spayed Female,10 years,Chihuahua Shorthair Mix,Black,Out State
+A843323,*Lincoln,2021-10-08T13:26:00.000,2021-10-08T13:26:00.000,2021-06-29T00:00:00.000,Transfer,Dog,Intact Male,3 months,Chihuahua Shorthair Mix,Blue,Out State
+A843328,*Sarah,2021-10-08T13:26:00.000,2021-10-08T13:26:00.000,2020-09-29T00:00:00.000,Transfer,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,White/Black,Out State
+A843327,*Mary,2021-10-08T13:25:00.000,2021-10-08T13:25:00.000,2019-09-29T00:00:00.000,Transfer,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Black/White,Out State
+A843129,Babo,2021-10-08T13:25:00.000,2021-10-08T13:25:00.000,2019-09-27T00:00:00.000,Transfer,Dog,Neutered Male,2 years,Chihuahua Shorthair,Black/Brown,Out State
+A843326,*Winnie,2021-10-08T13:25:00.000,2021-10-08T13:25:00.000,2019-09-29T00:00:00.000,Transfer,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Chocolate/White,Out State
+A842956,*Laurel,2021-10-08T13:24:00.000,2021-10-08T13:24:00.000,2020-09-23T00:00:00.000,Transfer,Dog,Spayed Female,1 year,Harrier Mix,Brown/Tricolor,Out State
+A843128,Milo,2021-10-08T13:24:00.000,2021-10-08T13:24:00.000,2019-09-27T00:00:00.000,Transfer,Dog,Intact Male,2 years,Norwich Terrier Mix,Tan/Black,Out State
+A606477,Maxine,2021-10-08T13:24:00.000,2021-10-08T13:24:00.000,2011-05-08T00:00:00.000,Transfer,Dog,Spayed Female,10 years,Catahoula/Plott Hound,Brown Brindle,Out State
+A840844,Gordo,2021-10-08T13:23:00.000,2021-10-08T13:23:00.000,2019-08-16T00:00:00.000,Transfer,Dog,Neutered Male,2 years,Labrador Retriever Mix,Black/White,Out State
+A838400,Oso,2021-10-08T13:23:00.000,2021-10-08T13:23:00.000,2015-07-07T00:00:00.000,Transfer,Dog,Neutered Male,6 years,German Shepherd Mix,Brown,Out State
+A835597,*Spark,2021-10-08T13:22:00.000,2021-10-08T13:22:00.000,2020-07-30T00:00:00.000,Transfer,Dog,Neutered Male,1 year,American Bulldog Mix,White/Tan,Out State
+A826298,Harley,2021-10-08T13:22:00.000,2021-10-08T13:22:00.000,2017-11-23T00:00:00.000,Transfer,Dog,Spayed Female,3 years,Australian Kelpie Mix,Brown/Black,Out State
+A839856,Loki,2021-10-08T13:21:00.000,2021-10-08T13:21:00.000,2018-01-28T00:00:00.000,Transfer,Dog,Neutered Male,3 years,Labrador Retriever Mix,Black,Out State
+A840527,Lobo,2021-10-08T13:21:00.000,2021-10-08T13:21:00.000,2017-08-10T00:00:00.000,Transfer,Dog,Neutered Male,4 years,German Shepherd Mix,Black/Brown,Out State
+A839038,Astro,2021-10-08T13:20:00.000,2021-10-08T13:20:00.000,2019-01-15T00:00:00.000,Transfer,Dog,Neutered Male,2 years,Labrador Retriever/German Shepherd,Tan/White,Out State
+A842475,*Ardy,2021-10-08T13:20:00.000,2021-10-08T13:20:00.000,2014-09-16T00:00:00.000,Transfer,Dog,Neutered Male,7 years,German Shepherd,Black/Brown,Out State
+A841669,*Geoffrey,2021-10-08T13:20:00.000,2021-10-08T13:20:00.000,2016-09-01T00:00:00.000,Transfer,Dog,Neutered Male,5 years,German Shepherd,Tan/Black,Out State
+A843863,Leila,2021-10-08T13:18:00.000,2021-10-08T13:18:00.000,2020-10-07T00:00:00.000,Transfer,Dog,Spayed Female,1 year,Chihuahua Shorthair/Papillon,Buff,Partner
+A843864,Luna,2021-10-08T13:18:00.000,2021-10-08T13:18:00.000,2020-10-07T00:00:00.000,Transfer,Dog,Spayed Female,1 year,Chihuahua Shorthair/Papillon,White,Partner
+A843300,A843300,2021-10-08T12:59:00.000,2021-10-08T12:59:00.000,2021-05-29T00:00:00.000,Adoption,Cat,Neutered Male,4 months,Domestic Shorthair,Blue,
+A833677,Terry,2021-10-08T12:05:00.000,2021-10-08T12:05:00.000,2021-03-10T00:00:00.000,Return to Owner,Dog,Intact Male,6 months,Boxer Mix,Brown/Tricolor,
+A842396,Joey Joestar,2021-10-08T11:57:00.000,2021-10-08T11:57:00.000,2020-03-15T00:00:00.000,Return to Owner,Cat,Intact Male,1 year,Domestic Shorthair,Brown Tabby/White,
+A841778,Storm,2021-10-08T11:35:00.000,2021-10-08T11:35:00.000,2019-09-02T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Staffordshire,White/Black,
+A843742,,2021-10-08T11:30:00.000,2021-10-08T11:30:00.000,2021-05-07T00:00:00.000,Transfer,Dog,Intact Male,5 months,Shih Tzu,White/Tan,Partner
+A843787,Rocco,2021-10-08T10:15:00.000,2021-10-08T10:15:00.000,2019-10-06T00:00:00.000,Transfer,Dog,Intact Male,2 years,Chihuahua Shorthair,Red,Partner
+A733271,Yellie,2021-10-08T08:47:00.000,2021-10-08T08:47:00.000,2015-08-21T00:00:00.000,Adoption,Dog,Spayed Female,6 years,Labrador Retriever Mix,Yellow,Foster
+A843639,,2021-10-08T00:00:00.000,2021-10-08T00:00:00.000,2021-08-17T00:00:00.000,Transfer,Dog,Intact Male,1 month,Golden Retriever Mix,Yellow,Partner
+A840038,*Cornelius,2021-10-07T20:55:00.000,2021-10-07T20:55:00.000,2019-07-31T00:00:00.000,Transfer,Other,Neutered Male,2 years,Rex,Brown,Partner
+A842177,*Chico,2021-10-07T19:19:00.000,2021-10-07T19:19:00.000,2021-03-27T00:00:00.000,Adoption,Dog,Neutered Male,6 months,Pointer Mix,White/Black,
+A843352,Harry,2021-10-07T19:03:00.000,2021-10-07T19:03:00.000,2020-11-29T00:00:00.000,Adoption,Cat,Neutered Male,10 months,Domestic Shorthair,Orange Tabby,
+A843465,*Acorn,2021-10-07T18:57:00.000,2021-10-07T18:57:00.000,2021-08-13T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair,Orange Tabby,
+A842922,*Sparky,2021-10-07T18:47:00.000,2021-10-07T18:47:00.000,2019-09-23T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Australian Cattle Dog,Blue Tick/Tan,
+A843422,A843422,2021-10-07T18:32:00.000,2021-10-07T18:32:00.000,2021-07-30T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black,
+A812197,Junai,2021-10-07T18:31:00.000,2021-10-07T18:31:00.000,2018-10-19T00:00:00.000,Return to Owner,Dog,Spayed Female,2 years,Australian Kelpie Mix,Brown/White,
+A843783,Mia,2021-10-07T18:25:00.000,2021-10-07T18:25:00.000,2021-06-06T00:00:00.000,Adoption,Cat,Spayed Female,4 months,Domestic Shorthair,Torbie,
+A843625,Harold,2021-10-07T18:15:00.000,2021-10-07T18:15:00.000,2021-07-20T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Labrador Retriever Mix,Brown/Black,
+A843462,*Kabocha,2021-10-07T17:56:00.000,2021-10-07T17:56:00.000,2021-08-13T00:00:00.000,Adoption,Cat,Neutered Male,1 month,Domestic Shorthair,Orange Tabby,
+A841364,Beauty,2021-10-07T17:56:00.000,2021-10-07T17:56:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby,
+A842752,*Jill,2021-10-07T17:36:00.000,2021-10-07T17:36:00.000,2021-08-12T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair,Brown Tabby/White,
+A843453,A843453,2021-10-07T17:18:00.000,2021-10-07T17:18:00.000,2019-10-01T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Chihuahua Shorthair,Tan,
+A842749,*Kelly,2021-10-07T16:51:00.000,2021-10-07T16:51:00.000,2021-08-12T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair,White/Brown Tabby,
+A842750,*Sabrina,2021-10-07T16:50:00.000,2021-10-07T16:50:00.000,2021-08-12T00:00:00.000,Adoption,Cat,Spayed Female,1 month,Domestic Shorthair,Brown Tabby,
+A843537,*Victoria,2021-10-07T16:42:00.000,2021-10-07T16:42:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair,Black/White,
+A843402,A843402,2021-10-07T16:22:00.000,2021-10-07T16:22:00.000,2021-04-15T00:00:00.000,Adoption,Dog,Neutered Male,5 months,Redbone Hound Mix,Red/Black,
+A841360,Luxe,2021-10-07T16:03:00.000,2021-10-07T16:03:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie,
+A841227,*Honey,2021-10-07T15:47:00.000,2021-10-07T15:47:00.000,2019-08-23T00:00:00.000,Adoption,Dog,Spayed Female,2 years,Labrador Retriever Mix,Brown/White,
+A842729,Deebo,2021-10-07T15:02:00.000,2021-10-07T15:02:00.000,2021-02-21T00:00:00.000,Transfer,Dog,Intact Male,7 months,Chihuahua Shorthair/Cairn Terrier,Brown,Partner
+A843844,,2021-10-07T14:48:00.000,2021-10-07T14:48:00.000,2020-12-07T00:00:00.000,Return to Owner,Cat,Intact Male,9 months,Domestic Shorthair,Brown Tabby/White,
+A843826,,2021-10-07T14:12:00.000,2021-10-07T14:12:00.000,2021-10-07T00:00:00.000,Transfer,Cat,Unknown,0 years,Domestic Shorthair,Black,Partner
+A843825,A843825,2021-10-07T14:11:00.000,2021-10-07T14:11:00.000,2020-10-07T00:00:00.000,Transfer,Cat,Intact Female,1 year,Domestic Shorthair,Brown Tabby,Partner
+A843482,A843482,2021-10-07T13:59:00.000,2021-10-07T13:59:00.000,2021-08-01T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Dachshund Mix,Black/Brown,
+A842001,Boops,2021-10-07T13:58:00.000,2021-10-07T13:58:00.000,2017-06-01T00:00:00.000,Return to Owner,Cat,Neutered Male,4 years,Domestic Shorthair,Black/White,
+A843571,,2021-10-07T13:34:00.000,2021-10-07T13:34:00.000,2020-10-03T00:00:00.000,Transfer,Dog,Intact Female,1 year,Pug Mix,Tan/Black,Partner
+A841528,*Opal Squirrel,2021-10-07T12:59:00.000,2021-10-07T12:59:00.000,2021-05-14T00:00:00.000,Transfer,Cat,Intact Female,4 months,Domestic Shorthair,Brown Tabby,Partner
+A843561,,2021-10-07T11:25:00.000,2021-10-07T11:25:00.000,2021-04-03T00:00:00.000,Transfer,Dog,Intact Male,6 months,Norwich Terrier/Maltese,Cream,Partner
+A843560,,2021-10-07T11:24:00.000,2021-10-07T11:24:00.000,2019-10-03T00:00:00.000,Transfer,Dog,Intact Female,2 years,Norwich Terrier/Maltese,Cream,Partner
+A843575,,2021-10-07T11:24:00.000,2021-10-07T11:24:00.000,2020-10-03T00:00:00.000,Transfer,Dog,Intact Female,1 year,Norwich Terrier/Maltese,Cream,Partner
+A843782,,2021-10-07T10:57:00.000,2021-10-07T10:57:00.000,2019-10-06T00:00:00.000,Euthanasia,Other,Unknown,2 years,Bat,Black,Rabies Risk
+A706833,Flo,2021-10-07T10:45:00.000,2021-10-07T10:45:00.000,2009-07-03T00:00:00.000,Return to Owner,Dog,Spayed Female,12 years,Miniature Schnauzer Mix,Gray/White,
+A842650,,2021-10-07T09:53:00.000,2021-10-07T09:53:00.000,2019-09-19T00:00:00.000,Adoption,Bird,Unknown,2 years,Dove,White,Foster
+A840024,*A840024,2021-10-07T08:27:00.000,2021-10-07T08:27:00.000,2021-07-25T00:00:00.000,Missing,Dog,Intact Male,2 months,Pit Bull Mix,Blue/White,In Foster
+A843683,*Pepper,2021-10-07T00:00:00.000,2021-10-07T00:00:00.000,2021-07-05T00:00:00.000,Transfer,Cat,Intact Male,3 months,Domestic Shorthair,Brown Tabby,Snr
+A843791,,2021-10-07T00:00:00.000,2021-10-07T00:00:00.000,2019-10-06T00:00:00.000,Transfer,Cat,Intact Male,2 years,Domestic Shorthair,Gray Tabby/White,Snr
+A843685,*Nettle,2021-10-07T00:00:00.000,2021-10-07T00:00:00.000,2021-07-05T00:00:00.000,Transfer,Cat,Intact Male,3 months,Domestic Shorthair,Brown Tabby,Snr
+A843351,A843351,2021-10-06T19:06:00.000,2021-10-06T19:06:00.000,2021-07-16T00:00:00.000,Adoption,Dog,Spayed Female,2 months,Labrador Retriever Mix,Black/White,
+A843472,Fantasma,2021-10-06T18:31:00.000,2021-10-06T18:31:00.000,2020-04-01T00:00:00.000,Adoption,Dog,Neutered Male,1 year,Great Pyrenees Mix,White,
+A840671,Rosie,2021-10-06T18:10:00.000,2021-10-06T18:10:00.000,2015-08-11T00:00:00.000,Adoption,Dog,Spayed Female,6 years,Labrador Retriever Mix,Black/Tan,
+A843023,*Kramer,2021-10-06T18:01:00.000,2021-10-06T18:01:00.000,2020-04-25T00:00:00.000,Transfer,Dog,Intact Male,1 year,Labrador Retriever/Chesa Bay Retr,Chocolate,Partner
+A843235,A843235,2021-10-06T17:58:00.000,2021-10-06T17:58:00.000,2021-07-06T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Cream Tabby,
+A842477,*Turk,2021-10-06T17:54:00.000,2021-10-06T17:54:00.000,2019-07-16T00:00:00.000,Adoption,Dog,Neutered Male,2 years,Rhod Ridgeback Mix,Red,
+A794725,Ms.Blinky,2021-10-06T17:50:00.000,2021-10-06T17:50:00.000,2018-07-11T00:00:00.000,Return to Owner,Dog,Intact Female,3 years,Staffordshire,Black,
+A843399,Simba,2021-10-06T17:41:00.000,2021-10-06T17:41:00.000,2021-07-30T00:00:00.000,Return to Owner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black,
+A843237,A843237,2021-10-06T17:34:00.000,2021-10-06T17:34:00.000,2021-07-06T00:00:00.000,Adoption,Cat,Neutered Male,3 months,Domestic Shorthair,Orange Tabby/White,
+A843417,*Tober,2021-10-06T17:25:00.000,2021-10-06T17:25:00.000,2020-09-30T00:00:00.000,Adoption,Cat,Neutered Male,1 year,Domestic Shorthair,Brown Tabby/White,
+A843397,A843397,2021-10-06T17:01:00.000,2021-10-06T17:01:00.000,2021-03-02T00:00:00.000,Adoption,Dog,Neutered Male,7 months,Harrier Mix,Tan/White,
+A843624,Hank,2021-10-06T17:00:00.000,2021-10-06T17:00:00.000,2021-07-20T00:00:00.000,Adoption,Dog,Neutered Male,2 months,Labrador Retriever Mix,Brown/Black,
+A843793,Wesley,2021-10-06T16:19:00.000,2021-10-06T16:19:00.000,2011-10-06T00:00:00.000,Return to Owner,Dog,Neutered Male,10 years,Chihuahua Shorthair Mix,Tan,
+A843514,,2021-10-06T16:09:00.000,2021-10-06T16:09:00.000,2017-10-02T00:00:00.000,Disposal,Cat,Intact Male,4 years,Domestic Longhair,Orange Tabby,
+A841362,Sealy,2021-10-06T16:05:00.000,2021-10-06T16:05:00.000,2021-07-26T00:00:00.000,Adoption,Cat,Spayed Female,2 months,Siamese Mix,Tortie Point,
+A843390,A843390,2021-10-06T15:57:00.000,2021-10-06T15:57:00.000,2021-04-30T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair Mix,Orange Tabby/White,
+A843391,10A843391,2021-10-06T15:57:00.000,2021-10-06T15:57:00.000,2021-04-30T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair Mix,Orange Tabby/White,
+A837441,Willy,2021-10-06T15:52:00.000,2021-10-06T15:52:00.000,2011-06-23T00:00:00.000,Adoption,Cat,Neutered Male,10 years,Domestic Shorthair,Orange Tabby,Foster
+A612028,Hannah,2021-10-06T15:35:00.000,2021-10-06T15:35:00.000,2011-08-31T00:00:00.000,Return to Owner,Dog,Spayed Female,10 years,Labrador Retriever Mix,White/Tan,
+A760095,Rory,2021-10-06T15:24:00.000,2021-10-06T15:24:00.000,2016-10-12T00:00:00.000,Adoption,Dog,Neutered Male,4 years,Doberman Pinsch/Pit Bull,Black/Brown,
+A835742,*Thor,2021-10-06T15:22:00.000,2021-10-06T15:22:00.000,2021-04-16T00:00:00.000,Adoption,Cat,Neutered Male,5 months,Domestic Shorthair,Cream Tabby,Foster
+A843731,,2021-10-06T15:09:00.000,2021-10-06T15:09:00.000,2021-09-13T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair,White/Blue Tabby,Partner
+A843740,,2021-10-06T15:09:00.000,2021-10-06T15:09:00.000,2021-09-13T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair,Lynx Point,Partner
+A843738,,2021-10-06T15:08:00.000,2021-10-06T15:08:00.000,2021-09-13T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Shorthair,Flame Point,Partner
+A843739,,2021-10-06T15:08:00.000,2021-10-06T15:08:00.000,2021-09-13T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Shorthair,Flame Point,Partner
+A843736,,2021-10-06T15:08:00.000,2021-10-06T15:08:00.000,2021-09-13T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Shorthair,Black,Partner
+A843737,,2021-10-06T15:08:00.000,2021-10-06T15:08:00.000,2021-09-13T00:00:00.000,Transfer,Cat,Intact Male,3 weeks,Domestic Shorthair,Black,Partner
+A843371,,2021-10-06T15:07:00.000,2021-10-06T15:07:00.000,2021-08-30T00:00:00.000,Transfer,Cat,Intact Male,1 month,Domestic Shorthair,Orange Tabby,Partner
+A843735,,2021-10-06T15:07:00.000,2021-10-06T15:07:00.000,2021-09-13T00:00:00.000,Transfer,Cat,Intact Female,3 weeks,Domestic Shorthair,Tortie,Partner
